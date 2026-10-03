@@ -1,0 +1,77 @@
+{
+  "documents": 350,
+  "entities": 846,
+  "negative_controls": 26,
+  "tesseract_version": "5.3.4",
+  "language": "eng",
+  "psm": 7,
+  "crop_border": 5,
+  "scale": "max(1, round(60/crop_height))",
+  "normalization": "lowercase ASCII alphanumeric",
+  "recovery": "complete normalized target is substring of OCR output",
+  "shared_masked_condition": "Strong and RA identical; one OCR pass per entity represents both",
+  "summary": [
+    {
+      "pii_type": "ADDRESS_FULL",
+      "entities": 145,
+      "original_recovered": 133,
+      "masked_recovered": 0,
+      "masked_recovered_among_original_recoverable": 0
+    },
+    {
+      "pii_type": "EMAIL",
+      "entities": 92,
+      "original_recovered": 61,
+      "masked_recovered": 0,
+      "masked_recovered_among_original_recoverable": 0
+    },
+    {
+      "pii_type": "MEMBER_ID",
+      "entities": 88,
+      "original_recovered": 88,
+      "masked_recovered": 0,
+      "masked_recovered_among_original_recoverable": 0
+    },
+    {
+      "pii_type": "PAYMENT_CARD",
+      "entities": 144,
+      "original_recovered": 54,
+      "masked_recovered": 0,
+      "masked_recovered_among_original_recoverable": 0
+    },
+    {
+      "pii_type": "PERSON_NAME",
+      "entities": 141,
+      "original_recovered": 127,
+      "masked_recovered": 0,
+      "masked_recovered_among_original_recoverable": 0
+    },
+    {
+      "pii_type": "PHONE",
+      "entities": 145,
+      "original_recovered": 132,
+      "masked_recovered": 0,
+      "masked_recovered_among_original_recoverable": 0
+    },
+    {
+      "pii_type": "TRANSACTION_ID",
+      "entities": 91,
+      "original_recovered": 43,
+      "masked_recovered": 0,
+      "masked_recovered_among_original_recoverable": 0
+    },
+    {
+      "pii_type": "TOTAL",
+      "entities": 846,
+      "original_recovered": 638,
+      "masked_recovered": 0,
+      "masked_recovered_among_original_recoverable": 0
+    }
+  ],
+  "limitations": [
+    "No partial-value, human-reader, alternative-OCR or re-identification attack evaluated",
+    "Known annotation coordinates; not end-to-end detection",
+    "No independence-based entity significance claim",
+    "Results apply only to newly rendered zero-margin policy"
+  ]
+}

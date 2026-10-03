@@ -1,0 +1,37 @@
+{
+  "documents": 350,
+  "actual_inferences": 700,
+  "original_mean": 0.6114285714285714,
+  "masked_mean": 0.6271428571428571,
+  "masked_minus_original": 0.015714285714285715,
+  "ci95": [
+    0.0064285714285714285,
+    0.025714285714285714
+  ],
+  "improved": 20,
+  "unchanged": 324,
+  "worsened": 6,
+  "field_correct_counts": {
+    "company": {
+      "ORIGINAL": 225,
+      "MASKED_SHARED": 238
+    },
+    "date": {
+      "ORIGINAL": 253,
+      "MASKED_SHARED": 252
+    },
+    "address": {
+      "ORIGINAL": 157,
+      "MASKED_SHARED": 164
+    },
+    "total": {
+      "ORIGINAL": 221,
+      "MASKED_SHARED": 224
+    }
+  },
+  "sha256": {
+    "entity_ocr_results.csv": "0bb0d4b8e3327b1bc4b66e8bfb3301fef96874e873654e7b3c2c547b3b6cceec",
+    "summary.csv": "3dc471766493b934f05025773b3da8cb31c430acb985493f94bf703e3bba211d",
+    "predictions.csv": "c87a7c94a5fae5d1f923323ca97d5797a31a16443588105f9155783c20fd267a"
+  }
+}

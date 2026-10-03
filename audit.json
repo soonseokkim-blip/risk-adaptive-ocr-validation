@@ -1,0 +1,15 @@
+{
+  "model": "philschmid/donut-base-sroie",
+  "resolved_revision": "51e72e5d160efa472ee3958d79a766faa42f6c5d",
+  "documents": 350,
+  "actual_inferences": 700,
+  "Strong_RA_outputs": "identical images; shared inference",
+  "field_metric": "mean normalized field exact match; not standard token F1",
+  "masked_minus_original": 0.015714285714285715,
+  "ci95": [
+    0.0064285714285714285,
+    0.025714285714285714
+  ],
+  "Strong_minus_RA": 0.0,
+  "note": "No training or tuning. G2/G3 contextual benefits are not evaluated."
+}

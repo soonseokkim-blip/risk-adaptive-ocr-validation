@@ -1,0 +1,127 @@
+{
+  "policy_version": "CURRENT-C2-SPATIAL-1",
+  "scope": "new coordinate-policy audit, not reproduction of Table 6; no images rendered, no OCR/detector/Donut run",
+  "context": "C2",
+  "margin_pixels": 0,
+  "rendering_spec": "opaque black rectangles; specified but not executed",
+  "input_sha256": "2b07a25f873006601b91a016983bbcdd4189e6037422e02437e5229f7c31b2f9",
+  "seed": 20261003,
+  "bootstrap_resamples": 10000,
+  "type_mapping": {
+    "PERSON_NAME": "G1",
+    "PHONE": "G1",
+    "EMAIL": "G1",
+    "ADDRESS_FULL": "G1",
+    "PAYMENT_CARD": "G1",
+    "MEMBER_ID": "SUPPLEMENTAL_IDENTIFIER",
+    "TRANSACTION_ID": "SUPPLEMENTAL_IDENTIFIER"
+  },
+  "summary": [
+    {
+      "group": "All350",
+      "documents": 350,
+      "positive_documents": 324,
+      "entities": 846,
+      "strong_coverage": 1.0,
+      "ra_coverage": 1.0,
+      "difference": 0.0,
+      "paired_ci95": [
+        0.0,
+        0.0
+      ],
+      "strong_mean_page_area": 0.012376513238826565,
+      "ra_mean_page_area": 0.012376513238826565,
+      "relative_area_reduction": 0.0
+    },
+    {
+      "group": "Original35",
+      "documents": 35,
+      "positive_documents": 28,
+      "entities": 77,
+      "strong_coverage": 1.0,
+      "ra_coverage": 1.0,
+      "difference": 0.0,
+      "paired_ci95": [
+        0.0,
+        0.0
+      ],
+      "strong_mean_page_area": 0.0098454205065093,
+      "ra_mean_page_area": 0.0098454205065093,
+      "relative_area_reduction": 0.0
+    },
+    {
+      "group": "Additional315",
+      "documents": 315,
+      "positive_documents": 296,
+      "entities": 769,
+      "strong_coverage": 1.0,
+      "ra_coverage": 1.0,
+      "difference": 0.0,
+      "paired_ci95": [
+        0.0,
+        0.0
+      ],
+      "strong_mean_page_area": 0.012657745764639593,
+      "ra_mean_page_area": 0.012657745764639593,
+      "relative_area_reduction": 0.0
+    }
+  ],
+  "categories": [
+    {
+      "pii_type": "ADDRESS_FULL",
+      "group": "G1",
+      "entities": 145,
+      "strong_coverage": 1.0,
+      "ra_coverage": 1.0
+    },
+    {
+      "pii_type": "EMAIL",
+      "group": "G1",
+      "entities": 92,
+      "strong_coverage": 1.0,
+      "ra_coverage": 1.0
+    },
+    {
+      "pii_type": "MEMBER_ID",
+      "group": "SUPPLEMENTAL_IDENTIFIER",
+      "entities": 88,
+      "strong_coverage": 1.0,
+      "ra_coverage": 1.0
+    },
+    {
+      "pii_type": "PAYMENT_CARD",
+      "group": "G1",
+      "entities": 144,
+      "strong_coverage": 1.0,
+      "ra_coverage": 1.0
+    },
+    {
+      "pii_type": "PERSON_NAME",
+      "group": "G1",
+      "entities": 141,
+      "strong_coverage": 1.0,
+      "ra_coverage": 1.0
+    },
+    {
+      "pii_type": "PHONE",
+      "group": "G1",
+      "entities": 145,
+      "strong_coverage": 1.0,
+      "ra_coverage": 1.0
+    },
+    {
+      "pii_type": "TRANSACTION_ID",
+      "group": "SUPPLEMENTAL_IDENTIFIER",
+      "entities": 91,
+      "strong_coverage": 1.0,
+      "ra_coverage": 1.0
+    }
+  ],
+  "limitations": [
+    "No G2 or G3 entities in this sample",
+    "MEMBER_ID and TRANSACTION_ID are supplemental protective rules, not assignments from the original 18 types",
+    "Perfect overlap follows from using ground-truth boxes; it is not evidence of detection accuracy or resistance to re-identification",
+    "Equal masks make the zero paired difference structural; degenerate CI is not broader privacy assurance",
+    "Existing downstream scores cannot be attributed to these new masks"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "context_policy_audit.py": "543eb45fcf67041e573f5bf4986ce20c6784e44f34183ec272f2a15901792419",
+  "requirements.txt": "21fe01f61bdbaa10b521a7f50b76e2b9919e6b4e5e98be36e6cdf8095545fe2d",
+  "public_utility_scores.csv": "9aa0f588d8d23c86a33a1756c108fe4412430ca7a8e6ce5857fb02181abf05d9",
+  "verify_public_utility.py": "25511af832d2a5894ecf46d98b36a2ae6a1fdd06a7d0dfccb5893656b243ee6b",
+  "SROIE_Current_C2_Donut350.ipynb": "079fd7d3ce0b618a42618a87adfa3a0f2bb33ffe102f1e332105fb61c67706ae",
+  "audit.json": "0e0ecc2483947495f31e6ae242ed43623bc754f8031b320c5095d7aedb6584f6",
+  "verified_utility.json": "036a498176ec8f0179408ae356b3c4bd5201044ad5a759d2e3b47c5ef93f5416",
+  "README.md": "9597f3f473f8a6d133739a1df942526e0de460661b9eed7222181c4f6b08d9ff",
+  "OCR_results.json": "9a818866e08cfad86159d39f4a95d9dd02c6ada5491eb747e310f0ada5b89ca0",
+  "context_results/decisions.csv": "3902ce97e3df731ae9e47b482c1319b2f9707af86f044f2018b5d8e64fc258b2",
+  "context_results/summary.json": "cf4c345334885656044952254f03e02c7b3b576f7d32acc703c50dc90f958e29",
+  "output/audit_current_ocr.py": "3ce8c9412f71b516d11dfcbc99b243e48a50d69148527e24928d0e3a650893ee",
+  "output/render_sroie_current.py": "305b7e52023011d629148291f1ef81f0a60153a62d543795df16463f738b285c",
+  "output/sroie_current_policy/evaluate_current_policy.py": "e4d3c8dd4048f5eb80891cd0415c8095e94cd4014e8d24649919809639fdd460",
+  "output/sroie_current_policy/original35_selection.csv": "c4d6beea6162876780261cfca819d03df843039548941668ea1381a9e4316b49",
+  "output/sroie_current_policy/annotations_test350.zip": "2b07a25f873006601b91a016983bbcdd4189e6037422e02437e5229f7c31b2f9",
+  "output/sroie_current_policy/results/document_results.csv": "252ac44446c15b14320b02df4ca6cad7c81132c9c978904ec32eb2a7eb333e81",
+  "output/sroie_current_policy/results/results.json": "5d8663ff6f09b71f30879621ca5b3a170f40e42f0928a6c860ba42beba9834cd",
+  "output/sroie_current_policy/results/category_results.csv": "2b553426f9f9c71a846e621857f3c253c6917aa13fbcb92fe574fa544e1abea5",
+  "output/sroie_current_policy/results/entity_results.csv": "f8147c38d1de5d84342ba7c6ea26a230a94b7ce6e1fe9fed58cf3ca2692c75c1",
+  "output/sroie_current_policy/results/decision_manifest.json": "3a5baf5e7457b7f93d8690b91d3a2911f05f286ebf5a6f051c249ae6c215d2f1"
+}

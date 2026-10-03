@@ -1,0 +1,7 @@
+numpy
+pillow
+transformers>=4.46,<5
+sentencepiece
+accelerate
+pandas
+scipy
