@@ -1,0 +1,15 @@
+# SROIE official-test35 category coverage reanalysis
+
+Scope: same 35 official-test documents selected in sroie_external35_selection.csv; 7 per role, 28 positive pages and 7 negative controls, 77 annotated synthetic PII entities. Utility summary from the historical 175 inferences matches manuscript Table 7 (Original .6071428571; Strong and RA .6357142857). This is distinct from the older pilot with 20 train and 15 test pages and the newly specified conservative C2 350-page experiment.
+
+Inputs: SROIE-PII-full971-metadata.zip; SROIE-external-full971-results-metadata (1).zip; official test35 selection CSV and protocol. Text-free selected derivatives are in coordinates_35.json. Recorded policy action rectangles for Strong and historical Risk-adaptive C2 are used. Non-RETAIN action rectangles count as spatial intervention regions, including TOKENIZE and PARTIAL_MASK; geometric coverage is not optical opacity, unreadability or re-identification prevention. No new rendering, OCR or Donut inference performed.
+
+Geometry: continuous/half-open rectangles (width=x2-x1; height=y2-y1), union intersections counted once. All rectangles verified valid and within image bounds. Overall coverage is equal-weighted over 77 entities. Negative controls have no coverage value and are excluded from the entity denominator, but all 35 pages contribute to mean masked-page-area. Relative area reduction is 1-mean(RA area)/mean(Strong area).
+
+95% percentile confidence intervals: paired resampling of all 35 documents, retaining all entities from each sampled document, 20000 draws, NumPy default_rng seed 20261004. Category means are pooled entity means in each draw; draws without any entity in the category are excluded. Zero-width sample bootstrap intervals in completely covered strata do not imply population-level certainty.
+
+Priority groups use historical P3_HIGH/P4_CRITICAL annotations, not G1-G3. Historical PARTIAL_MASK actions on name/phone explain geometric deficits; this is not validation of the general mandatory-full-masking G1 rule.
+
+Audit: recorded coordinates give Strong 1.0000, RA .9591431217, delta -.0408568783, CI [-.0620436798,-.0179824693]. Mean areas: .01117251390 and .01067439460, reduction .04458435315. The manuscript values .9687 and 4.92% are not reproduced; do not describe these results as a decomposition of those old figures. Update or resolve the primary SROIE spatial row before manuscript integration. This package does not independently validate image pixels or recover the unknown previous aggregation procedure.
+
+Reproduce: install numpy and execute python reproduce.py. Source image bytes and full text metadata are not included.
