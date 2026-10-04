@@ -31,3 +31,6 @@ Coordinates are insertion-derived ground truth from existing author augmentation
 
 ## Scope of release
 Author-written evaluation scripts, derivative coordinate records, selection IDs, numeric score records, aggregate results, and notebook. Third-party source licenses remain applicable. No source images, manuscript, synthetic text values, OCR strings, or receipt ground-truth strings are included. No assertion that the full historical experiment is reproducible from this package.
+
+## SROIE coverage reanalysis
+The sroie35_category_reanalysis directory contains coordinate annotations, entity-level scores, aggregate results, and reproduction code for the revised SROIE row in Table 6 and Tables 17–18. This analysis uses the original 35-document external-validation sample and is distinct from the archived OCR pilot and the supplementary conservative 350-document experiment.
