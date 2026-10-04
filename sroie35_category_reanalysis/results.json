@@ -1,0 +1,141 @@
+{
+  "overall": {
+    "entities": 77,
+    "documents": 28,
+    "strong": 1.0,
+    "risk_adaptive": 0.9591431216526214,
+    "difference": -0.040856878347378535,
+    "ci": [
+      -0.06204367979833517,
+      -0.017982469258227805
+    ],
+    "incomplete_entities": 7,
+    "incomplete_documents": 7
+  },
+  "by_type": {
+    "ADDRESS_FULL": {
+      "entities": 14,
+      "documents": 14,
+      "strong": 1.0,
+      "risk_adaptive": 1.0,
+      "difference": 0.0,
+      "ci": [
+        0.0,
+        0.0
+      ],
+      "incomplete_entities": 0,
+      "incomplete_documents": 0
+    },
+    "EMAIL": {
+      "entities": 7,
+      "documents": 7,
+      "strong": 1.0,
+      "risk_adaptive": 1.0,
+      "difference": 0.0,
+      "ci": [
+        0.0,
+        0.0
+      ],
+      "incomplete_entities": 0,
+      "incomplete_documents": 0
+    },
+    "MEMBER_ID": {
+      "entities": 7,
+      "documents": 7,
+      "strong": 1.0,
+      "risk_adaptive": 1.0,
+      "difference": 0.0,
+      "ci": [
+        0.0,
+        0.0
+      ],
+      "incomplete_entities": 0,
+      "incomplete_documents": 0
+    },
+    "PAYMENT_CARD": {
+      "entities": 14,
+      "documents": 14,
+      "strong": 1.0,
+      "risk_adaptive": 1.0,
+      "difference": 0.0,
+      "ci": [
+        0.0,
+        0.0
+      ],
+      "incomplete_entities": 0,
+      "incomplete_documents": 0
+    },
+    "PERSON_NAME": {
+      "entities": 14,
+      "documents": 14,
+      "strong": 1.0,
+      "risk_adaptive": 0.8715566512674721,
+      "difference": -0.12844334873252783,
+      "ci": [
+        -0.24234636813228225,
+        -0.03204719387755102
+      ],
+      "incomplete_entities": 4,
+      "incomplete_documents": 4
+    },
+    "PHONE": {
+      "entities": 14,
+      "documents": 14,
+      "strong": 1.0,
+      "risk_adaptive": 0.9037305178219459,
+      "difference": -0.09626948217805409,
+      "ci": [
+        -0.20415934395825366,
+        0.0
+      ],
+      "incomplete_entities": 3,
+      "incomplete_documents": 3
+    },
+    "TRANSACTION_ID": {
+      "entities": 7,
+      "documents": 7,
+      "strong": 1.0,
+      "risk_adaptive": 1.0,
+      "difference": 0.0,
+      "ci": [
+        0.0,
+        0.0
+      ],
+      "incomplete_entities": 0,
+      "incomplete_documents": 0
+    }
+  },
+  "by_priority": {
+    "P3_HIGH": {
+      "entities": 56,
+      "documents": 28,
+      "strong": 1.0,
+      "risk_adaptive": 0.9438217922723545,
+      "difference": -0.05617820772764548,
+      "ci": [
+        -0.08678704069041515,
+        -0.024138572454844003
+      ],
+      "incomplete_entities": 7,
+      "incomplete_documents": 7
+    },
+    "P4_CRITICAL": {
+      "entities": 21,
+      "documents": 21,
+      "strong": 1.0,
+      "risk_adaptive": 1.0,
+      "difference": 0.0,
+      "ci": [
+        0.0,
+        0.0
+      ],
+      "incomplete_entities": 0,
+      "incomplete_documents": 0
+    }
+  },
+  "area": {
+    "strong": 0.011172513901910302,
+    "risk_adaptive": 0.010674394596582934,
+    "relative_reduction": 0.04458435314564235
+  }
+}

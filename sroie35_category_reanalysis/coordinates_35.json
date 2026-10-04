@@ -1,0 +1,2823 @@
+[
+  {
+    "document_id": "X51005268275",
+    "split": "test",
+    "role": "COMPLEX_CONTEXT",
+    "width": 835,
+    "height": 2333,
+    "entities": [
+      {
+        "pii_id": "X51005268275_PII_01",
+        "pii_type": "PERSON_NAME",
+        "box": [
+          46,
+          2214,
+          366,
+          2238
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005268275_PII_02",
+        "pii_type": "PHONE",
+        "box": [
+          45,
+          2242,
+          317,
+          2261
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005268275_PII_03",
+        "pii_type": "ADDRESS_FULL",
+        "box": [
+          46,
+          2270,
+          609,
+          2294
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005268275_PII_04",
+        "pii_type": "PAYMENT_CARD",
+        "box": [
+          46,
+          2298,
+          371,
+          2317
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51005268275_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          40,
+          2213,
+          372,
+          2239
+        ]
+      },
+      {
+        "pii_id": "X51005268275_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          40,
+          2241,
+          322,
+          2262
+        ]
+      },
+      {
+        "pii_id": "X51005268275_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          35,
+          2269,
+          620,
+          2295
+        ]
+      },
+      {
+        "pii_id": "X51005268275_PII_04",
+        "action": "FULL_MASK",
+        "box": [
+          40,
+          2297,
+          377,
+          2318
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51005268275_PII_01",
+        "action": "PARTIAL_MASK",
+        "box": [
+          123,
+          2213,
+          299,
+          2239
+        ]
+      },
+      {
+        "pii_id": "X51005268275_PII_02",
+        "action": "TOKENIZE",
+        "box": [
+          40,
+          2241,
+          322,
+          2262
+        ]
+      },
+      {
+        "pii_id": "X51005268275_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          35,
+          2269,
+          620,
+          2295
+        ]
+      },
+      {
+        "pii_id": "X51005268275_PII_04",
+        "action": "FULL_MASK",
+        "box": [
+          40,
+          2297,
+          377,
+          2318
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51005337877",
+    "split": "test",
+    "role": "TRANSACTION_PAYMENT",
+    "width": 627,
+    "height": 1071,
+    "entities": [
+      {
+        "pii_id": "X51005337877_PII_01",
+        "pii_type": "TRANSACTION_ID",
+        "box": [
+          33,
+          1041,
+          164,
+          1048
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005337877_PII_02",
+        "pii_type": "PAYMENT_CARD",
+        "box": [
+          34,
+          1053,
+          151,
+          1061
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51005337877_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          30,
+          1040,
+          167,
+          1049
+        ]
+      },
+      {
+        "pii_id": "X51005337877_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          32,
+          1052,
+          153,
+          1062
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51005337877_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          30,
+          1040,
+          167,
+          1049
+        ]
+      },
+      {
+        "pii_id": "X51005337877_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          32,
+          1052,
+          153,
+          1062
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51005361906",
+    "split": "test",
+    "role": "TRANSACTION_PAYMENT",
+    "width": 1654,
+    "height": 2339,
+    "entities": [
+      {
+        "pii_id": "X51005361906_PII_01",
+        "pii_type": "TRANSACTION_ID",
+        "box": [
+          90,
+          2118,
+          438,
+          2136
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005361906_PII_02",
+        "pii_type": "PAYMENT_CARD",
+        "box": [
+          91,
+          2148,
+          403,
+          2166
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51005361906_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          83,
+          2117,
+          445,
+          2137
+        ]
+      },
+      {
+        "pii_id": "X51005361906_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          85,
+          2147,
+          409,
+          2167
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51005361906_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          83,
+          2117,
+          445,
+          2137
+        ]
+      },
+      {
+        "pii_id": "X51005361906_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          85,
+          2147,
+          409,
+          2167
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51005442366",
+    "split": "test",
+    "role": "CONTACT_LOCATION",
+    "width": 1080,
+    "height": 1528,
+    "entities": [
+      {
+        "pii_id": "X51005442366_PII_01",
+        "pii_type": "PHONE",
+        "box": [
+          58,
+          1206,
+          243,
+          1219
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005442366_PII_02",
+        "pii_type": "EMAIL",
+        "box": [
+          59,
+          1227,
+          344,
+          1244
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005442366_PII_03",
+        "pii_type": "ADDRESS_FULL",
+        "box": [
+          59,
+          1248,
+          447,
+          1265
+        ],
+        "field_protection_priority": "P3_HIGH"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51005442366_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          54,
+          1205,
+          247,
+          1220
+        ]
+      },
+      {
+        "pii_id": "X51005442366_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          53,
+          1226,
+          350,
+          1245
+        ]
+      },
+      {
+        "pii_id": "X51005442366_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          51,
+          1247,
+          455,
+          1266
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51005442366_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          54,
+          1205,
+          247,
+          1220
+        ]
+      },
+      {
+        "pii_id": "X51005442366_PII_02",
+        "action": "TOKENIZE",
+        "box": [
+          53,
+          1226,
+          350,
+          1245
+        ]
+      },
+      {
+        "pii_id": "X51005442366_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          51,
+          1247,
+          455,
+          1266
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51005442382",
+    "split": "test",
+    "role": "TRANSACTION_PAYMENT",
+    "width": 1080,
+    "height": 1528,
+    "entities": [
+      {
+        "pii_id": "X51005442382_PII_01",
+        "pii_type": "TRANSACTION_ID",
+        "box": [
+          58,
+          1159,
+          276,
+          1170
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005442382_PII_02",
+        "pii_type": "PAYMENT_CARD",
+        "box": [
+          59,
+          1178,
+          254,
+          1189
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51005442382_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          54,
+          1158,
+          280,
+          1171
+        ]
+      },
+      {
+        "pii_id": "X51005442382_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          55,
+          1177,
+          258,
+          1190
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51005442382_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          54,
+          1158,
+          280,
+          1171
+        ]
+      },
+      {
+        "pii_id": "X51005442382_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          55,
+          1177,
+          258,
+          1190
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51005568889",
+    "split": "test",
+    "role": "CUSTOMER_DIRECT",
+    "width": 888,
+    "height": 1621,
+    "entities": [
+      {
+        "pii_id": "X51005568889_PII_01",
+        "pii_type": "PERSON_NAME",
+        "box": [
+          48,
+          1577,
+          214,
+          1592
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005568889_PII_02",
+        "pii_type": "MEMBER_ID",
+        "box": [
+          48,
+          1596,
+          295,
+          1608
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51005568889_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          45,
+          1576,
+          217,
+          1593
+        ]
+      },
+      {
+        "pii_id": "X51005568889_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          43,
+          1595,
+          300,
+          1609
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51005568889_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          45,
+          1576,
+          217,
+          1593
+        ]
+      },
+      {
+        "pii_id": "X51005568889_PII_02",
+        "action": "TOKENIZE",
+        "box": [
+          43,
+          1595,
+          300,
+          1609
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51005675099",
+    "split": "test",
+    "role": "COMPLEX_CONTEXT",
+    "width": 933,
+    "height": 1837,
+    "entities": [
+      {
+        "pii_id": "X51005675099_PII_01",
+        "pii_type": "PERSON_NAME",
+        "box": [
+          52,
+          1669,
+          500,
+          1703
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005675099_PII_02",
+        "pii_type": "PHONE",
+        "box": [
+          51,
+          1709,
+          431,
+          1736
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005675099_PII_03",
+        "pii_type": "ADDRESS_FULL",
+        "box": [
+          52,
+          1749,
+          789,
+          1780
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005675099_PII_04",
+        "pii_type": "PAYMENT_CARD",
+        "box": [
+          52,
+          1789,
+          508,
+          1816
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51005675099_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          43,
+          1668,
+          509,
+          1704
+        ]
+      },
+      {
+        "pii_id": "X51005675099_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          43,
+          1708,
+          439,
+          1737
+        ]
+      },
+      {
+        "pii_id": "X51005675099_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          37,
+          1748,
+          804,
+          1781
+        ]
+      },
+      {
+        "pii_id": "X51005675099_PII_04",
+        "action": "FULL_MASK",
+        "box": [
+          43,
+          1788,
+          517,
+          1817
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51005675099_PII_01",
+        "action": "PARTIAL_MASK",
+        "box": [
+          159,
+          1668,
+          406,
+          1704
+        ]
+      },
+      {
+        "pii_id": "X51005675099_PII_02",
+        "action": "TOKENIZE",
+        "box": [
+          43,
+          1708,
+          439,
+          1737
+        ]
+      },
+      {
+        "pii_id": "X51005675099_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          37,
+          1748,
+          804,
+          1781
+        ]
+      },
+      {
+        "pii_id": "X51005675099_PII_04",
+        "action": "FULL_MASK",
+        "box": [
+          43,
+          1788,
+          517,
+          1817
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51005676537",
+    "split": "test",
+    "role": "CONTACT_LOCATION",
+    "width": 931,
+    "height": 1967,
+    "entities": [
+      {
+        "pii_id": "X51005676537_PII_01",
+        "pii_type": "PHONE",
+        "box": [
+          51,
+          1833,
+          150,
+          1841
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005676537_PII_02",
+        "pii_type": "EMAIL",
+        "box": [
+          52,
+          1845,
+          205,
+          1855
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005676537_PII_03",
+        "pii_type": "ADDRESS_FULL",
+        "box": [
+          52,
+          1857,
+          283,
+          1867
+        ],
+        "field_protection_priority": "P3_HIGH"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51005676537_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          49,
+          1832,
+          152,
+          1842
+        ]
+      },
+      {
+        "pii_id": "X51005676537_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          49,
+          1844,
+          208,
+          1856
+        ]
+      },
+      {
+        "pii_id": "X51005676537_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          47,
+          1856,
+          288,
+          1868
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51005676537_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          49,
+          1832,
+          152,
+          1842
+        ]
+      },
+      {
+        "pii_id": "X51005676537_PII_02",
+        "action": "TOKENIZE",
+        "box": [
+          49,
+          1844,
+          208,
+          1856
+        ]
+      },
+      {
+        "pii_id": "X51005676537_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          47,
+          1856,
+          288,
+          1868
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51005676542",
+    "split": "test",
+    "role": "CONTACT_LOCATION",
+    "width": 932,
+    "height": 1867,
+    "entities": [
+      {
+        "pii_id": "X51005676542_PII_01",
+        "pii_type": "PHONE",
+        "box": [
+          51,
+          1476,
+          128,
+          1482
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005676542_PII_02",
+        "pii_type": "EMAIL",
+        "box": [
+          52,
+          1486,
+          167,
+          1493
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005676542_PII_03",
+        "pii_type": "ADDRESS_FULL",
+        "box": [
+          52,
+          1496,
+          231,
+          1503
+        ],
+        "field_protection_priority": "P3_HIGH"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51005676542_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          49,
+          1475,
+          130,
+          1483
+        ]
+      },
+      {
+        "pii_id": "X51005676542_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          50,
+          1485,
+          169,
+          1494
+        ]
+      },
+      {
+        "pii_id": "X51005676542_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          48,
+          1495,
+          235,
+          1504
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51005676542_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          49,
+          1475,
+          130,
+          1483
+        ]
+      },
+      {
+        "pii_id": "X51005676542_PII_02",
+        "action": "TOKENIZE",
+        "box": [
+          50,
+          1485,
+          169,
+          1494
+        ]
+      },
+      {
+        "pii_id": "X51005676542_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          48,
+          1495,
+          235,
+          1504
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51005719823",
+    "split": "test",
+    "role": "COMPLEX_CONTEXT",
+    "width": 884,
+    "height": 2249,
+    "entities": [
+      {
+        "pii_id": "X51005719823_PII_01",
+        "pii_type": "PERSON_NAME",
+        "box": [
+          48,
+          1767,
+          254,
+          1780
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005719823_PII_02",
+        "pii_type": "PHONE",
+        "box": [
+          47,
+          1788,
+          243,
+          1802
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005719823_PII_03",
+        "pii_type": "ADDRESS_FULL",
+        "box": [
+          48,
+          1809,
+          509,
+          1827
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005719823_PII_04",
+        "pii_type": "PAYMENT_CARD",
+        "box": [
+          48,
+          1830,
+          282,
+          1844
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51005719823_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          44,
+          1766,
+          258,
+          1781
+        ]
+      },
+      {
+        "pii_id": "X51005719823_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          43,
+          1787,
+          247,
+          1803
+        ]
+      },
+      {
+        "pii_id": "X51005719823_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          39,
+          1808,
+          518,
+          1828
+        ]
+      },
+      {
+        "pii_id": "X51005719823_PII_04",
+        "action": "FULL_MASK",
+        "box": [
+          43,
+          1829,
+          287,
+          1845
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51005719823_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          44,
+          1766,
+          258,
+          1781
+        ]
+      },
+      {
+        "pii_id": "X51005719823_PII_02",
+        "action": "PARTIAL_MASK",
+        "box": [
+          94,
+          1787,
+          202,
+          1803
+        ]
+      },
+      {
+        "pii_id": "X51005719823_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          39,
+          1808,
+          518,
+          1828
+        ]
+      },
+      {
+        "pii_id": "X51005719823_PII_04",
+        "action": "FULL_MASK",
+        "box": [
+          43,
+          1829,
+          287,
+          1845
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51005719863",
+    "split": "test",
+    "role": "COMPLEX_CONTEXT",
+    "width": 884,
+    "height": 1940,
+    "entities": [
+      {
+        "pii_id": "X51005719863_PII_01",
+        "pii_type": "PERSON_NAME",
+        "box": [
+          48,
+          1724,
+          517,
+          1752
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005719863_PII_02",
+        "pii_type": "PHONE",
+        "box": [
+          47,
+          1770,
+          448,
+          1798
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005719863_PII_03",
+        "pii_type": "ADDRESS_FULL",
+        "box": [
+          48,
+          1816,
+          817,
+          1845
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005719863_PII_04",
+        "pii_type": "PAYMENT_CARD",
+        "box": [
+          48,
+          1862,
+          530,
+          1890
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51005719863_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          39,
+          1723,
+          526,
+          1753
+        ]
+      },
+      {
+        "pii_id": "X51005719863_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          39,
+          1769,
+          456,
+          1799
+        ]
+      },
+      {
+        "pii_id": "X51005719863_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          33,
+          1815,
+          832,
+          1846
+        ]
+      },
+      {
+        "pii_id": "X51005719863_PII_04",
+        "action": "FULL_MASK",
+        "box": [
+          38,
+          1861,
+          540,
+          1891
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51005719863_PII_01",
+        "action": "PARTIAL_MASK",
+        "box": [
+          161,
+          1723,
+          419,
+          1753
+        ]
+      },
+      {
+        "pii_id": "X51005719863_PII_02",
+        "action": "TOKENIZE",
+        "box": [
+          39,
+          1769,
+          456,
+          1799
+        ]
+      },
+      {
+        "pii_id": "X51005719863_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          33,
+          1815,
+          832,
+          1846
+        ]
+      },
+      {
+        "pii_id": "X51005719863_PII_04",
+        "action": "FULL_MASK",
+        "box": [
+          38,
+          1861,
+          540,
+          1891
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51005724624",
+    "split": "test",
+    "role": "CONTACT_LOCATION",
+    "width": 932,
+    "height": 2212,
+    "entities": [
+      {
+        "pii_id": "X51005724624_PII_01",
+        "pii_type": "PHONE",
+        "box": [
+          51,
+          110,
+          420,
+          136
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005724624_PII_02",
+        "pii_type": "EMAIL",
+        "box": [
+          52,
+          152,
+          621,
+          185
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005724624_PII_03",
+        "pii_type": "ADDRESS_FULL",
+        "box": [
+          52,
+          194,
+          827,
+          227
+        ],
+        "field_protection_priority": "P3_HIGH"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51005724624_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          44,
+          109,
+          427,
+          137
+        ]
+      },
+      {
+        "pii_id": "X51005724624_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          41,
+          151,
+          632,
+          186
+        ]
+      },
+      {
+        "pii_id": "X51005724624_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          36,
+          193,
+          843,
+          228
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51005724624_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          44,
+          109,
+          427,
+          137
+        ]
+      },
+      {
+        "pii_id": "X51005724624_PII_02",
+        "action": "TOKENIZE",
+        "box": [
+          41,
+          151,
+          632,
+          186
+        ]
+      },
+      {
+        "pii_id": "X51005724624_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          36,
+          193,
+          843,
+          228
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51005724625",
+    "split": "test",
+    "role": "COMPLEX_CONTEXT",
+    "width": 928,
+    "height": 2317,
+    "entities": [
+      {
+        "pii_id": "X51005724625_PII_01",
+        "pii_type": "PERSON_NAME",
+        "box": [
+          51,
+          103,
+          393,
+          127
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005724625_PII_02",
+        "pii_type": "PHONE",
+        "box": [
+          50,
+          138,
+          397,
+          162
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005724625_PII_03",
+        "pii_type": "ADDRESS_FULL",
+        "box": [
+          51,
+          173,
+          871,
+          204
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005724625_PII_04",
+        "pii_type": "PAYMENT_CARD",
+        "box": [
+          51,
+          208,
+          468,
+          232
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51005724625_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          44,
+          102,
+          400,
+          128
+        ]
+      },
+      {
+        "pii_id": "X51005724625_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          43,
+          137,
+          404,
+          163
+        ]
+      },
+      {
+        "pii_id": "X51005724625_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          35,
+          172,
+          887,
+          205
+        ]
+      },
+      {
+        "pii_id": "X51005724625_PII_04",
+        "action": "FULL_MASK",
+        "box": [
+          43,
+          207,
+          476,
+          233
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51005724625_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          44,
+          102,
+          400,
+          128
+        ]
+      },
+      {
+        "pii_id": "X51005724625_PII_02",
+        "action": "PARTIAL_MASK",
+        "box": [
+          133,
+          137,
+          325,
+          163
+        ]
+      },
+      {
+        "pii_id": "X51005724625_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          35,
+          172,
+          887,
+          205
+        ]
+      },
+      {
+        "pii_id": "X51005724625_PII_04",
+        "action": "FULL_MASK",
+        "box": [
+          43,
+          207,
+          476,
+          233
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51005746204",
+    "split": "test",
+    "role": "CUSTOMER_DIRECT",
+    "width": 705,
+    "height": 1473,
+    "entities": [
+      {
+        "pii_id": "X51005746204_PII_01",
+        "pii_type": "PERSON_NAME",
+        "box": [
+          39,
+          1197,
+          295,
+          1216
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51005746204_PII_02",
+        "pii_type": "MEMBER_ID",
+        "box": [
+          39,
+          1220,
+          348,
+          1235
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51005746204_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          34,
+          1196,
+          300,
+          1217
+        ]
+      },
+      {
+        "pii_id": "X51005746204_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          33,
+          1219,
+          354,
+          1236
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51005746204_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          34,
+          1196,
+          300,
+          1217
+        ]
+      },
+      {
+        "pii_id": "X51005746204_PII_02",
+        "action": "TOKENIZE",
+        "box": [
+          33,
+          1219,
+          354,
+          1236
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51006311714",
+    "split": "test",
+    "role": "CONTACT_LOCATION",
+    "width": 791,
+    "height": 1897,
+    "entities": [
+      {
+        "pii_id": "X51006311714_PII_01",
+        "pii_type": "PHONE",
+        "box": [
+          43,
+          1816,
+          282,
+          1833
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51006311714_PII_02",
+        "pii_type": "EMAIL",
+        "box": [
+          44,
+          1841,
+          412,
+          1863
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51006311714_PII_03",
+        "pii_type": "ADDRESS_FULL",
+        "box": [
+          44,
+          1866,
+          608,
+          1888
+        ],
+        "field_protection_priority": "P3_HIGH"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51006311714_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          38,
+          1815,
+          287,
+          1834
+        ]
+      },
+      {
+        "pii_id": "X51006311714_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          37,
+          1840,
+          419,
+          1864
+        ]
+      },
+      {
+        "pii_id": "X51006311714_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          33,
+          1865,
+          619,
+          1889
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51006311714_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          38,
+          1815,
+          287,
+          1834
+        ]
+      },
+      {
+        "pii_id": "X51006311714_PII_02",
+        "action": "TOKENIZE",
+        "box": [
+          37,
+          1840,
+          419,
+          1864
+        ]
+      },
+      {
+        "pii_id": "X51006311714_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          33,
+          1865,
+          619,
+          1889
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51006327953",
+    "split": "test",
+    "role": "COMPLEX_CONTEXT",
+    "width": 724,
+    "height": 1440,
+    "entities": [
+      {
+        "pii_id": "X51006327953_PII_01",
+        "pii_type": "PERSON_NAME",
+        "box": [
+          40,
+          1325,
+          286,
+          1343
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51006327953_PII_02",
+        "pii_type": "PHONE",
+        "box": [
+          39,
+          1352,
+          300,
+          1370
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51006327953_PII_03",
+        "pii_type": "ADDRESS_FULL",
+        "box": [
+          40,
+          1379,
+          580,
+          1402
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51006327953_PII_04",
+        "pii_type": "PAYMENT_CARD",
+        "box": [
+          40,
+          1406,
+          352,
+          1424
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51006327953_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          35,
+          1324,
+          291,
+          1344
+        ]
+      },
+      {
+        "pii_id": "X51006327953_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          34,
+          1351,
+          305,
+          1371
+        ]
+      },
+      {
+        "pii_id": "X51006327953_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          29,
+          1378,
+          591,
+          1403
+        ]
+      },
+      {
+        "pii_id": "X51006327953_PII_04",
+        "action": "FULL_MASK",
+        "box": [
+          34,
+          1405,
+          358,
+          1425
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51006327953_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          35,
+          1324,
+          291,
+          1344
+        ]
+      },
+      {
+        "pii_id": "X51006327953_PII_02",
+        "action": "PARTIAL_MASK",
+        "box": [
+          102,
+          1351,
+          245,
+          1371
+        ]
+      },
+      {
+        "pii_id": "X51006327953_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          29,
+          1378,
+          591,
+          1403
+        ]
+      },
+      {
+        "pii_id": "X51006327953_PII_04",
+        "action": "FULL_MASK",
+        "box": [
+          34,
+          1405,
+          358,
+          1425
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51006349083",
+    "split": "test",
+    "role": "TRANSACTION_PAYMENT",
+    "width": 738,
+    "height": 1780,
+    "entities": [
+      {
+        "pii_id": "X51006349083_PII_01",
+        "pii_type": "TRANSACTION_ID",
+        "box": [
+          40,
+          1710,
+          417,
+          1730
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51006349083_PII_02",
+        "pii_type": "PAYMENT_CARD",
+        "box": [
+          41,
+          1742,
+          379,
+          1762
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51006349083_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          32,
+          1709,
+          425,
+          1731
+        ]
+      },
+      {
+        "pii_id": "X51006349083_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          34,
+          1741,
+          386,
+          1763
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51006349083_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          32,
+          1709,
+          425,
+          1731
+        ]
+      },
+      {
+        "pii_id": "X51006349083_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          34,
+          1741,
+          386,
+          1763
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51006502534",
+    "split": "test",
+    "role": "NEGATIVE_CONTROL",
+    "width": 435,
+    "height": 1275,
+    "entities": [],
+    "strong": [],
+    "risk_adaptive_c2": []
+  },
+  {
+    "document_id": "X51006556657",
+    "split": "test",
+    "role": "CUSTOMER_DIRECT",
+    "width": 616,
+    "height": 1176,
+    "entities": [
+      {
+        "pii_id": "X51006556657_PII_01",
+        "pii_type": "PERSON_NAME",
+        "box": [
+          34,
+          1147,
+          149,
+          1156
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51006556657_PII_02",
+        "pii_type": "MEMBER_ID",
+        "box": [
+          34,
+          1159,
+          173,
+          1167
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51006556657_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          32,
+          1146,
+          151,
+          1157
+        ]
+      },
+      {
+        "pii_id": "X51006556657_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          31,
+          1158,
+          176,
+          1168
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51006556657_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          32,
+          1146,
+          151,
+          1157
+        ]
+      },
+      {
+        "pii_id": "X51006556657_PII_02",
+        "action": "TOKENIZE",
+        "box": [
+          31,
+          1158,
+          176,
+          1168
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51006556728",
+    "split": "test",
+    "role": "NEGATIVE_CONTROL",
+    "width": 616,
+    "height": 1230,
+    "entities": [],
+    "strong": [],
+    "risk_adaptive_c2": []
+  },
+  {
+    "document_id": "X51006557209",
+    "split": "test",
+    "role": "CUSTOMER_DIRECT",
+    "width": 616,
+    "height": 960,
+    "entities": [
+      {
+        "pii_id": "X51006557209_PII_01",
+        "pii_type": "PERSON_NAME",
+        "box": [
+          34,
+          928,
+          141,
+          936
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51006557209_PII_02",
+        "pii_type": "MEMBER_ID",
+        "box": [
+          34,
+          941,
+          188,
+          949
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51006557209_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          32,
+          927,
+          143,
+          937
+        ]
+      },
+      {
+        "pii_id": "X51006557209_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          31,
+          940,
+          191,
+          950
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51006557209_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          32,
+          927,
+          143,
+          937
+        ]
+      },
+      {
+        "pii_id": "X51006557209_PII_02",
+        "action": "TOKENIZE",
+        "box": [
+          31,
+          940,
+          191,
+          950
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51006557507",
+    "split": "test",
+    "role": "CUSTOMER_DIRECT",
+    "width": 616,
+    "height": 1176,
+    "entities": [
+      {
+        "pii_id": "X51006557507_PII_01",
+        "pii_type": "PERSON_NAME",
+        "box": [
+          34,
+          1146,
+          126,
+          1153
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51006557507_PII_02",
+        "pii_type": "MEMBER_ID",
+        "box": [
+          34,
+          1158,
+          173,
+          1166
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51006557507_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          32,
+          1145,
+          128,
+          1154
+        ]
+      },
+      {
+        "pii_id": "X51006557507_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          31,
+          1157,
+          176,
+          1167
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51006557507_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          32,
+          1145,
+          128,
+          1154
+        ]
+      },
+      {
+        "pii_id": "X51006557507_PII_02",
+        "action": "TOKENIZE",
+        "box": [
+          31,
+          1157,
+          176,
+          1167
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51006619509",
+    "split": "test",
+    "role": "NEGATIVE_CONTROL",
+    "width": 932,
+    "height": 1512,
+    "entities": [],
+    "strong": [],
+    "risk_adaptive_c2": []
+  },
+  {
+    "document_id": "X51006619766",
+    "split": "test",
+    "role": "NEGATIVE_CONTROL",
+    "width": 884,
+    "height": 2886,
+    "entities": [],
+    "strong": [],
+    "risk_adaptive_c2": []
+  },
+  {
+    "document_id": "X51006647933",
+    "split": "test",
+    "role": "NEGATIVE_CONTROL",
+    "width": 443,
+    "height": 859,
+    "entities": [],
+    "strong": [],
+    "risk_adaptive_c2": []
+  },
+  {
+    "document_id": "X51006913018",
+    "split": "test",
+    "role": "COMPLEX_CONTEXT",
+    "width": 4961,
+    "height": 7016,
+    "entities": [
+      {
+        "pii_id": "X51006913018_PII_01",
+        "pii_type": "PERSON_NAME",
+        "box": [
+          273,
+          6373,
+          1425,
+          6460
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51006913018_PII_02",
+        "pii_type": "PHONE",
+        "box": [
+          272,
+          6485,
+          1247,
+          6554
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51006913018_PII_03",
+        "pii_type": "ADDRESS_FULL",
+        "box": [
+          273,
+          6597,
+          2169,
+          6676
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51006913018_PII_04",
+        "pii_type": "PAYMENT_CARD",
+        "box": [
+          273,
+          6709,
+          1445,
+          6778
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51006913018_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          250,
+          6371,
+          1448,
+          6462
+        ]
+      },
+      {
+        "pii_id": "X51006913018_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          252,
+          6484,
+          1267,
+          6555
+        ]
+      },
+      {
+        "pii_id": "X51006913018_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          235,
+          6595,
+          2207,
+          6678
+        ]
+      },
+      {
+        "pii_id": "X51006913018_PII_04",
+        "action": "FULL_MASK",
+        "box": [
+          250,
+          6708,
+          1468,
+          6779
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51006913018_PII_01",
+        "action": "PARTIAL_MASK",
+        "box": [
+          550,
+          6371,
+          1184,
+          6462
+        ]
+      },
+      {
+        "pii_id": "X51006913018_PII_02",
+        "action": "TOKENIZE",
+        "box": [
+          252,
+          6484,
+          1267,
+          6555
+        ]
+      },
+      {
+        "pii_id": "X51006913018_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          235,
+          6595,
+          2207,
+          6678
+        ]
+      },
+      {
+        "pii_id": "X51006913018_PII_04",
+        "action": "FULL_MASK",
+        "box": [
+          250,
+          6708,
+          1468,
+          6779
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51006913061",
+    "split": "test",
+    "role": "TRANSACTION_PAYMENT",
+    "width": 4961,
+    "height": 7016,
+    "entities": [
+      {
+        "pii_id": "X51006913061_PII_01",
+        "pii_type": "TRANSACTION_ID",
+        "box": [
+          272,
+          5426,
+          1286,
+          5480
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51006913061_PII_02",
+        "pii_type": "PAYMENT_CARD",
+        "box": [
+          273,
+          5514,
+          1184,
+          5568
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51006913061_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          252,
+          5425,
+          1306,
+          5481
+        ]
+      },
+      {
+        "pii_id": "X51006913061_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          255,
+          5513,
+          1202,
+          5569
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51006913061_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          252,
+          5425,
+          1306,
+          5481
+        ]
+      },
+      {
+        "pii_id": "X51006913061_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          255,
+          5513,
+          1202,
+          5569
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51007103687",
+    "split": "test",
+    "role": "CUSTOMER_DIRECT",
+    "width": 842,
+    "height": 1280,
+    "entities": [
+      {
+        "pii_id": "X51007103687_PII_01",
+        "pii_type": "PERSON_NAME",
+        "box": [
+          46,
+          1175,
+          490,
+          1202
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51007103687_PII_02",
+        "pii_type": "MEMBER_ID",
+        "box": [
+          46,
+          1219,
+          587,
+          1246
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51007103687_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          37,
+          1174,
+          499,
+          1203
+        ]
+      },
+      {
+        "pii_id": "X51007103687_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          35,
+          1218,
+          598,
+          1247
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51007103687_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          37,
+          1174,
+          499,
+          1203
+        ]
+      },
+      {
+        "pii_id": "X51007103687_PII_02",
+        "action": "TOKENIZE",
+        "box": [
+          35,
+          1218,
+          598,
+          1247
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51007231276",
+    "split": "test",
+    "role": "TRANSACTION_PAYMENT",
+    "width": 4854,
+    "height": 6701,
+    "entities": [
+      {
+        "pii_id": "X51007231276_PII_01",
+        "pii_type": "TRANSACTION_ID",
+        "box": [
+          266,
+          5137,
+          1222,
+          5188
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51007231276_PII_02",
+        "pii_type": "PAYMENT_CARD",
+        "box": [
+          267,
+          5219,
+          1126,
+          5270
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51007231276_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          247,
+          5136,
+          1241,
+          5189
+        ]
+      },
+      {
+        "pii_id": "X51007231276_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          250,
+          5218,
+          1143,
+          5271
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51007231276_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          247,
+          5136,
+          1241,
+          5189
+        ]
+      },
+      {
+        "pii_id": "X51007231276_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          250,
+          5218,
+          1143,
+          5271
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51007339105",
+    "split": "test",
+    "role": "CONTACT_LOCATION",
+    "width": 619,
+    "height": 1475,
+    "entities": [
+      {
+        "pii_id": "X51007339105_PII_01",
+        "pii_type": "PHONE",
+        "box": [
+          33,
+          979,
+          305,
+          998
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51007339105_PII_02",
+        "pii_type": "EMAIL",
+        "box": [
+          34,
+          1010,
+          446,
+          1034
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51007339105_PII_03",
+        "pii_type": "ADDRESS_FULL",
+        "box": [
+          34,
+          1041,
+          574,
+          1064
+        ],
+        "field_protection_priority": "P3_HIGH"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51007339105_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          28,
+          978,
+          310,
+          999
+        ]
+      },
+      {
+        "pii_id": "X51007339105_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          26,
+          1009,
+          454,
+          1035
+        ]
+      },
+      {
+        "pii_id": "X51007339105_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          23,
+          1040,
+          585,
+          1065
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51007339105_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          28,
+          978,
+          310,
+          999
+        ]
+      },
+      {
+        "pii_id": "X51007339105_PII_02",
+        "action": "TOKENIZE",
+        "box": [
+          26,
+          1009,
+          454,
+          1035
+        ]
+      },
+      {
+        "pii_id": "X51007339105_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          23,
+          1040,
+          585,
+          1065
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51007339159",
+    "split": "test",
+    "role": "CONTACT_LOCATION",
+    "width": 619,
+    "height": 1507,
+    "entities": [
+      {
+        "pii_id": "X51007339159_PII_01",
+        "pii_type": "PHONE",
+        "box": [
+          33,
+          1462,
+          142,
+          1470
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51007339159_PII_02",
+        "pii_type": "EMAIL",
+        "box": [
+          34,
+          1475,
+          204,
+          1485
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51007339159_PII_03",
+        "pii_type": "ADDRESS_FULL",
+        "box": [
+          34,
+          1488,
+          259,
+          1498
+        ],
+        "field_protection_priority": "P3_HIGH"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51007339159_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          31,
+          1461,
+          144,
+          1471
+        ]
+      },
+      {
+        "pii_id": "X51007339159_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          31,
+          1474,
+          207,
+          1486
+        ]
+      },
+      {
+        "pii_id": "X51007339159_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          30,
+          1487,
+          263,
+          1499
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51007339159_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          31,
+          1461,
+          144,
+          1471
+        ]
+      },
+      {
+        "pii_id": "X51007339159_PII_02",
+        "action": "TOKENIZE",
+        "box": [
+          31,
+          1474,
+          207,
+          1486
+        ]
+      },
+      {
+        "pii_id": "X51007339159_PII_03",
+        "action": "FULL_MASK",
+        "box": [
+          30,
+          1487,
+          263,
+          1499
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51007846268",
+    "split": "test",
+    "role": "TRANSACTION_PAYMENT",
+    "width": 4961,
+    "height": 7016,
+    "entities": [
+      {
+        "pii_id": "X51007846268_PII_01",
+        "pii_type": "TRANSACTION_ID",
+        "box": [
+          272,
+          5658,
+          1184,
+          5707
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51007846268_PII_02",
+        "pii_type": "PAYMENT_CARD",
+        "box": [
+          273,
+          5737,
+          1093,
+          5786
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51007846268_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          254,
+          5657,
+          1202,
+          5708
+        ]
+      },
+      {
+        "pii_id": "X51007846268_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          257,
+          5736,
+          1109,
+          5787
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51007846268_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          254,
+          5657,
+          1202,
+          5708
+        ]
+      },
+      {
+        "pii_id": "X51007846268_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          257,
+          5736,
+          1109,
+          5787
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51007846360",
+    "split": "test",
+    "role": "NEGATIVE_CONTROL",
+    "width": 4961,
+    "height": 7016,
+    "entities": [],
+    "strong": [],
+    "risk_adaptive_c2": []
+  },
+  {
+    "document_id": "X51008030563",
+    "split": "test",
+    "role": "CUSTOMER_DIRECT",
+    "width": 787,
+    "height": 1636,
+    "entities": [
+      {
+        "pii_id": "X51008030563_PII_01",
+        "pii_type": "PERSON_NAME",
+        "box": [
+          43,
+          1521,
+          424,
+          1556
+        ],
+        "field_protection_priority": "P3_HIGH"
+      },
+      {
+        "pii_id": "X51008030563_PII_02",
+        "pii_type": "MEMBER_ID",
+        "box": [
+          43,
+          1567,
+          614,
+          1595
+        ],
+        "field_protection_priority": "P4_CRITICAL"
+      }
+    ],
+    "strong": [
+      {
+        "pii_id": "X51008030563_PII_01",
+        "action": "FULL_MASK",
+        "box": [
+          35,
+          1520,
+          432,
+          1557
+        ]
+      },
+      {
+        "pii_id": "X51008030563_PII_02",
+        "action": "FULL_MASK",
+        "box": [
+          32,
+          1566,
+          625,
+          1596
+        ]
+      }
+    ],
+    "risk_adaptive_c2": [
+      {
+        "pii_id": "X51008030563_PII_01",
+        "action": "TOKENIZE",
+        "box": [
+          35,
+          1520,
+          432,
+          1557
+        ]
+      },
+      {
+        "pii_id": "X51008030563_PII_02",
+        "action": "TOKENIZE",
+        "box": [
+          32,
+          1566,
+          625,
+          1596
+        ]
+      }
+    ]
+  },
+  {
+    "document_id": "X51008042786",
+    "split": "test",
+    "role": "NEGATIVE_CONTROL",
+    "width": 787,
+    "height": 1509,
+    "entities": [],
+    "strong": [],
+    "risk_adaptive_c2": []
+  }
+]
