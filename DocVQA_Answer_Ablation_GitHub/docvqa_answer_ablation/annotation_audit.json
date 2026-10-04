@@ -1,0 +1,4718 @@
+{
+  "input_documents": 199,
+  "eligible_documents": 194,
+  "planned_inferences": 388,
+  "eligible_roles": {
+    "COMPLEX_BUSINESS": 58,
+    "COMPLEX_CONTEXT": 20,
+    "FREE_NARRATIVE": 59,
+    "NEGATIVE_CONTROL": 10,
+    "PII_CONTEXT": 47
+  },
+  "documents": [
+    {
+      "document_id": "fydc0228_10",
+      "question_id": 50771,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "fydc0228",
+      "boxes": [
+        [
+          829,
+          1056,
+          1277,
+          1084
+        ]
+      ],
+      "masked_pixels": 12544,
+      "page_pixels": 1916376,
+      "masked_area_fraction": 0.006545688320037404,
+      "source_sha256": "057d3d30cb1c5898d6c9193417ed69f53d2fecb133421c1c2394eb0152372a58",
+      "question_types": [
+        "figure/diagram",
+        "table/list"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "jqbg0227_1",
+      "question_id": 62133,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": false,
+      "source_document_id": "jqbg0227",
+      "exclusion_reason": "no_exact_localization_match"
+    },
+    {
+      "document_id": "fmjb0228_14",
+      "question_id": 59962,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "fmjb0228",
+      "boxes": [
+        [
+          829,
+          91,
+          842,
+          117
+        ]
+      ],
+      "masked_pixels": 338,
+      "page_pixels": 3729770,
+      "masked_area_fraction": 9.062220994860273e-05,
+      "source_sha256": "03335432c92df6e5019d03217357cc6e6036132143a5c47a99e88c21592201b8",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "hhwh0078_1",
+      "question_id": 58671,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "hhwh0078",
+      "boxes": [
+        [
+          973,
+          146,
+          1313,
+          183
+        ]
+      ],
+      "masked_pixels": 12580,
+      "page_pixels": 4117794,
+      "masked_area_fraction": 0.0030550338360782496,
+      "source_sha256": "902c7bbb7ea33f5d09af65409fd2b9f613439b8e3efa4dbc6b2ce4de0892d767",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "fqny0000_1",
+      "question_id": 52366,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "fqny0000",
+      "boxes": [
+        [
+          173,
+          205,
+          507,
+          252
+        ],
+        [
+          173,
+          205,
+          732,
+          292
+        ]
+      ],
+      "masked_pixels": 48633,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.012803076971678592,
+      "source_sha256": "ac4843d026d7c1115c98bcdb0cdf9575748fdf2617d9390b587e3833615df533",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "jtpy0000_2",
+      "question_id": 52314,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "jtpy0000",
+      "boxes": [
+        [
+          364,
+          1457,
+          436,
+          1488
+        ]
+      ],
+      "masked_pixels": 2232,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.0005875941809221438,
+      "source_sha256": "d481efdfdbf191f1ba670da6134fc38afc42a2cee5526e1e516523936c540dc2",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "qqvv0228_2",
+      "question_id": 49322,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "qqvv0228",
+      "boxes": [
+        [
+          819,
+          93,
+          1298,
+          126
+        ]
+      ],
+      "masked_pixels": 15807,
+      "page_pixels": 4301650,
+      "masked_area_fraction": 0.003674636476700801,
+      "source_sha256": "640193b49c6604d69db18cfcbd3185f1d49b98a918bc02895f41d05ab76c2c72",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "gzyh0227_9",
+      "question_id": 5158,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "gzyh0227",
+      "boxes": [
+        [
+          602,
+          201,
+          1073,
+          251
+        ]
+      ],
+      "masked_pixels": 23550,
+      "page_pixels": 3580234,
+      "masked_area_fraction": 0.006577782346070117,
+      "source_sha256": "3bdb01cfc76fb0e82e1cf435e67aa323d8ab656598933b13795d978a0c00942a",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "gxgw0079_1",
+      "question_id": 18603,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "gxgw0079",
+      "boxes": [
+        [
+          568,
+          32,
+          1209,
+          80
+        ]
+      ],
+      "masked_pixels": 30768,
+      "page_pixels": 3729000,
+      "masked_area_fraction": 0.008251005631536605,
+      "source_sha256": "040814d4c580e7234a79cba3048361493c202f6ddf0d93b08c9fa714d8d2560e",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "qymj0226_1",
+      "question_id": 4952,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "qymj0226",
+      "boxes": [
+        [
+          315,
+          264,
+          619,
+          296
+        ]
+      ],
+      "masked_pixels": 9728,
+      "page_pixels": 3823832,
+      "masked_area_fraction": 0.0025440448220528517,
+      "source_sha256": "ed64959070ce688a23c6e7f5d67449d432252debfc27dd09b2a6e8b55033aa4d",
+      "question_types": [
+        "form",
+        "table/list",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "rfnj0226_1",
+      "question_id": 4932,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "rfnj0226",
+      "boxes": [
+        [
+          264,
+          222,
+          453,
+          252
+        ]
+      ],
+      "masked_pixels": 5670,
+      "page_pixels": 3757820,
+      "masked_area_fraction": 0.0015088535374232933,
+      "source_sha256": "5d7610ac7699832550e586cb34fcaceac0dc88a5c9db904d921013375684c798",
+      "question_types": [
+        "table/list",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "prbw0004_1",
+      "question_id": 7014,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "prbw0004",
+      "boxes": [
+        [
+          45,
+          24,
+          200,
+          54
+        ]
+      ],
+      "masked_pixels": 4650,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.0012241545435877994,
+      "source_sha256": "e99c9ee91af7cf4a9dbaa5325a95abf3b685c24137dc76df177e6e4773e3b8ff",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "zjph0227_4",
+      "question_id": 51713,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "zjph0227",
+      "boxes": [
+        [
+          583,
+          210,
+          1056,
+          258
+        ]
+      ],
+      "masked_pixels": 22704,
+      "page_pixels": 3595560,
+      "masked_area_fraction": 0.00631445449387578,
+      "source_sha256": "639875bf470b67942efa3a2ce395e01b0f4105321665dc18e3876e0ec249980f",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "lxcj0224_1",
+      "question_id": 4977,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "lxcj0224",
+      "boxes": [
+        [
+          288,
+          350,
+          533,
+          382
+        ]
+      ],
+      "masked_pixels": 7840,
+      "page_pixels": 3837888,
+      "masked_area_fraction": 0.0020427902012773694,
+      "source_sha256": "1c45e743ea5a39bfaa1bd351484502599340ed0cee94ddf6030e72ce91c13002",
+      "question_types": [
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "npwx0225_9",
+      "question_id": 5603,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "npwx0225",
+      "boxes": [
+        [
+          687,
+          81,
+          1222,
+          122
+        ]
+      ],
+      "masked_pixels": 21935,
+      "page_pixels": 3861618,
+      "masked_area_fraction": 0.005680261486247474,
+      "source_sha256": "18dad3ddcd8a2124b1617c01341bdf310e5f4ff7cbf6443f6c1d285ad5af1e79",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "stfg0065_1",
+      "question_id": 54858,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "stfg0065",
+      "boxes": [
+        [
+          583,
+          1161,
+          1150,
+          1208
+        ]
+      ],
+      "masked_pixels": 26649,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.007015590200445434,
+      "source_sha256": "41380dc9e961a185b32b1203301436f030b6198eadfa77bf129d78028af59ecf",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "nnhk0228_1",
+      "question_id": 5464,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "nnhk0228",
+      "boxes": [
+        [
+          1550,
+          291,
+          2100,
+          339
+        ]
+      ],
+      "masked_pixels": 26400,
+      "page_pixels": 3779599,
+      "masked_area_fraction": 0.006984867971443531,
+      "source_sha256": "b29b43ad8afce3ac6ec30be2539ecf24135cdfcb40747992cc54e72f2286f5e1",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "pgjw0227_5",
+      "question_id": 62401,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "pgjw0227",
+      "boxes": [
+        [
+          885,
+          699,
+          1187,
+          731
+        ]
+      ],
+      "masked_pixels": 9664,
+      "page_pixels": 4138200,
+      "masked_area_fraction": 0.0023353148712000386,
+      "source_sha256": "aa35e967ba0dba15f99c3e08c4fcb5abaecd0e62d643741beb7ab58b9beaa240",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "hlhv0228_3",
+      "question_id": 61601,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "hlhv0228",
+      "boxes": [
+        [
+          308,
+          418,
+          465,
+          441
+        ]
+      ],
+      "masked_pixels": 3611,
+      "page_pixels": 1567182,
+      "masked_area_fraction": 0.002304135703447334,
+      "source_sha256": "909accea1badfe5bc535fe947bb9f46314b527d02dd474dec6567d4b7fa28b23",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "mhcg0072_43",
+      "question_id": 54907,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "mhcg0072",
+      "boxes": [
+        [
+          913,
+          176,
+          992,
+          208
+        ]
+      ],
+      "masked_pixels": 2528,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.0006655188572451521,
+      "source_sha256": "93fc47a420c191b6aa7888b9659cafe65f983d7b7be88447f0f213235696a0d8",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "mzdv0228_1",
+      "question_id": 49104,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "mzdv0228",
+      "boxes": [
+        [
+          864,
+          381,
+          1217,
+          426
+        ]
+      ],
+      "masked_pixels": 15885,
+      "page_pixels": 4012352,
+      "masked_area_fraction": 0.003959024532244429,
+      "source_sha256": "5d543166a780db27cadad8779bdf66b7f19158d99435e4f16e7a9bebd09b461d",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "mskw0228_1",
+      "question_id": 50815,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "mskw0228",
+      "boxes": [
+        [
+          708,
+          1590,
+          756,
+          1611
+        ]
+      ],
+      "masked_pixels": 1008,
+      "page_pixels": 2593248,
+      "masked_area_fraction": 0.00038870173620108835,
+      "source_sha256": "4a1d43e5838cd557981feb3cfa2695cc88941c26895c673a6d76f564bb52c41a",
+      "question_types": [
+        "form",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "zlwc0228_5",
+      "question_id": 61926,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "zlwc0228",
+      "boxes": [
+        [
+          1043,
+          246,
+          1150,
+          274
+        ]
+      ],
+      "masked_pixels": 2996,
+      "page_pixels": 4199643,
+      "masked_area_fraction": 0.0007133939718209382,
+      "source_sha256": "75013a4ff4133c564889499f7748a3ff4283ba1ce37b11ce11249007d143e9ae",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "zmcj0227_1",
+      "question_id": 57294,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "zmcj0227",
+      "boxes": [
+        [
+          476,
+          628,
+          672,
+          660
+        ]
+      ],
+      "masked_pixels": 6272,
+      "page_pixels": 4433390,
+      "masked_area_fraction": 0.0014147187592339046,
+      "source_sha256": "f640b30e970ed4a96b3f643fe3b3b58bd8cdf121ea97d55f6df0eb454a5fda7a",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "xndv0228_1",
+      "question_id": 47037,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "xndv0228",
+      "boxes": [
+        [
+          894,
+          117,
+          1378,
+          154
+        ],
+        [
+          947,
+          53,
+          1311,
+          88
+        ]
+      ],
+      "masked_pixels": 30648,
+      "page_pixels": 4291808,
+      "masked_area_fraction": 0.007141046384181212,
+      "source_sha256": "4f337ff7bcccee8c753178a234e86e5d0f58a3f84f5e5c822570b9f393949bdf",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "qtgl0226_2",
+      "question_id": 44955,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "qtgl0226",
+      "boxes": [
+        [
+          498,
+          943,
+          643,
+          961
+        ]
+      ],
+      "masked_pixels": 2610,
+      "page_pixels": 934458,
+      "masked_area_fraction": 0.002793062930597202,
+      "source_sha256": "658deb2a9e2d870e789e026982c15c5f883efc0b2a16fa53b771763e15369811",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "zxkp0227_4",
+      "question_id": 61550,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "zxkp0227",
+      "boxes": [
+        [
+          426,
+          598,
+          960,
+          658
+        ]
+      ],
+      "masked_pixels": 32040,
+      "page_pixels": 4506450,
+      "masked_area_fraction": 0.00710980927337483,
+      "source_sha256": "ac96d1999df0d99e54e4abddf8514816eb6c266363209d58789ae4ea4e79b6e2",
+      "question_types": [
+        "handwritten",
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "ntvw0217_12",
+      "question_id": 46495,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "ntvw0217",
+      "boxes": [
+        [
+          203,
+          104,
+          1040,
+          143
+        ]
+      ],
+      "masked_pixels": 32643,
+      "page_pixels": 3933322,
+      "masked_area_fraction": 0.008299091709247298,
+      "source_sha256": "39f5c8de4a6e2b575c18acddefa485847ec0339245a92fe5ad5fda8162a3d1b3",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "hxjw0081_4",
+      "question_id": 58801,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "hxjw0081",
+      "boxes": [
+        [
+          325,
+          98,
+          561,
+          137
+        ]
+      ],
+      "masked_pixels": 9204,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.0024230362191789475,
+      "source_sha256": "895065d416d5ae2ef310ee9a6f244046a0d779506d20245bf07630eb541674c0",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "gmcd0003_1",
+      "question_id": 52599,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "gmcd0003",
+      "boxes": [
+        [
+          287,
+          1998,
+          559,
+          2064
+        ]
+      ],
+      "masked_pixels": 17952,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.004726026315373801,
+      "source_sha256": "95c766fa2d1e9f133bca244a38c87c4e569c494f5bb872e0b0421bce086c060a",
+      "question_types": [
+        "handwritten",
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "qfvg0227_2",
+      "question_id": 62469,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "qfvg0227",
+      "boxes": [
+        [
+          272,
+          625,
+          419,
+          658
+        ]
+      ],
+      "masked_pixels": 4851,
+      "page_pixels": 4074656,
+      "masked_area_fraction": 0.0011905299490312803,
+      "source_sha256": "5b3b49f4a5c6f727ffbc943e90ca1f62d4be549b502705a2a1840aebeb35b938",
+      "question_types": [
+        "table/list"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "pqxf0227_1",
+      "question_id": 63245,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "pqxf0227",
+      "boxes": [
+        [
+          831,
+          101,
+          1567,
+          238
+        ]
+      ],
+      "masked_pixels": 100832,
+      "page_pixels": 4127188,
+      "masked_area_fraction": 0.02443116233135006,
+      "source_sha256": "718577fe4225645cf7fe557fd07a8b5d2fa53479b2cbf84693cd43bb1a2544c9",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "nynn0081_8",
+      "question_id": 56541,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "nynn0081",
+      "boxes": [
+        [
+          834,
+          570,
+          902,
+          605
+        ]
+      ],
+      "masked_pixels": 2380,
+      "page_pixels": 3664590,
+      "masked_area_fraction": 0.0006494587389039429,
+      "source_sha256": "28c331183e3ad0413dcc3bb0376df67677cc87ee05d913ab09057ce822d146ab",
+      "question_types": [
+        "table/list"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "htyp0227_3",
+      "question_id": 62074,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "htyp0227",
+      "boxes": [
+        [
+          187,
+          517,
+          438,
+          551
+        ]
+      ],
+      "masked_pixels": 8534,
+      "page_pixels": 4115144,
+      "masked_area_fraction": 0.002073803492660281,
+      "source_sha256": "67b61ee9e9fbf6dcadf285d8df35c7523c685067c48c6434e605aa77de118859",
+      "question_types": [
+        "table/list"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "hzjg0224_2",
+      "question_id": 5934,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "hzjg0224",
+      "boxes": [
+        [
+          586,
+          444,
+          1153,
+          495
+        ]
+      ],
+      "masked_pixels": 28917,
+      "page_pixels": 3787940,
+      "masked_area_fraction": 0.007633964635131496,
+      "source_sha256": "a39d3ca883856ff6854cead65b428b13d6440900f5bcb01beaf218e4c81283a7",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "fmkp0227_5",
+      "question_id": 50788,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "fmkp0227",
+      "boxes": [
+        [
+          274,
+          1291,
+          419,
+          1338
+        ]
+      ],
+      "masked_pixels": 6815,
+      "page_pixels": 4227992,
+      "masked_area_fraction": 0.0016118762760194438,
+      "source_sha256": "7c86b90eca1b24e31198547cf09336c1b536ec4f420c8c2e0534ced0fd516453",
+      "question_types": [
+        "handwritten",
+        "table/list"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "qplp0000_2",
+      "question_id": 52515,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "qplp0000",
+      "boxes": [
+        [
+          702,
+          202,
+          1039,
+          244
+        ]
+      ],
+      "masked_pixels": 14154,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.003726168475256283,
+      "source_sha256": "d1643f591abe64b9597a5c3b7c9ac2f20c1ae70904871d1f87170fdbb5f62bcc",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "fkgv0228_1",
+      "question_id": 21035,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "fkgv0228",
+      "boxes": [
+        [
+          1267,
+          780,
+          1471,
+          817
+        ]
+      ],
+      "masked_pixels": 7548,
+      "page_pixels": 4098314,
+      "masked_area_fraction": 0.0018417329662880882,
+      "source_sha256": "aa2aca5e2a4c8a4f88eabd340318c890d59ab8f4a03ea4af81e26b7ceb290a10",
+      "question_types": [
+        "table/list"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "fhcn0226_2",
+      "question_id": 1693,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "fhcn0226",
+      "boxes": [
+        [
+          689,
+          239,
+          1013,
+          276
+        ],
+        [
+          824,
+          239,
+          1013,
+          276
+        ]
+      ],
+      "masked_pixels": 11988,
+      "page_pixels": 3799500,
+      "masked_area_fraction": 0.003155151993683379,
+      "source_sha256": "e504d563e6d9bb96c0afc59954bb7484a6e20e9e6e12ce863b7cb3ff826aa0f5",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "jhbl0226_45",
+      "question_id": 60383,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "jhbl0226",
+      "boxes": [
+        [
+          294,
+          1572,
+          861,
+          1603
+        ]
+      ],
+      "masked_pixels": 17577,
+      "page_pixels": 3604160,
+      "masked_area_fraction": 0.004876864512119329,
+      "source_sha256": "ee48ce5b484fa340bf807c2d9cff36b27d5059a099ade295861b4e5e3b8fa90e",
+      "question_types": [
+        "free_text",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "myph0227_1",
+      "question_id": 5293,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "myph0227",
+      "boxes": [
+        [
+          42,
+          286,
+          1655,
+          335
+        ]
+      ],
+      "masked_pixels": 79037,
+      "page_pixels": 3779472,
+      "masked_area_fraction": 0.020912180325717455,
+      "source_sha256": "cd8b4af1b43f28ec606ef702edcd4160296d80d044d8d5cc3b4a8bc3075f2659",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "mgxg0227_1",
+      "question_id": 62293,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "mgxg0227",
+      "boxes": [
+        [
+          1020,
+          124,
+          1344,
+          162
+        ]
+      ],
+      "masked_pixels": 12312,
+      "page_pixels": 4265325,
+      "masked_area_fraction": 0.002886532679221396,
+      "source_sha256": "44ec9066a43de43f7dee50b12338b3e4262b9cfe33bffde2b3a55f04e2c6f388",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "gqcw0079_2",
+      "question_id": 18557,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "gqcw0079",
+      "boxes": [
+        [
+          1208,
+          406,
+          1312,
+          445
+        ]
+      ],
+      "masked_pixels": 4056,
+      "page_pixels": 4041180,
+      "masked_area_fraction": 0.0010036672457054622,
+      "source_sha256": "c94ed594cc2c447579a53d9986ade1d279d9bdf02311a621d4e75c6a41350bd4",
+      "question_types": [
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "kkny0225_1",
+      "question_id": 54592,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "kkny0225",
+      "boxes": [
+        [
+          1591,
+          1847,
+          1630,
+          2041
+        ]
+      ],
+      "masked_pixels": 7566,
+      "page_pixels": 3742200,
+      "masked_area_fraction": 0.0020218053551386886,
+      "source_sha256": "3a26a62b656629ec0903b72126deba59ba1775bdf29e53aa9a858d03549e4371",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "kgjl0226_1",
+      "question_id": 46555,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "kgjl0226",
+      "boxes": [
+        [
+          277,
+          125,
+          570,
+          143
+        ]
+      ],
+      "masked_pixels": 5274,
+      "page_pixels": 929740,
+      "masked_area_fraction": 0.005672553617140276,
+      "source_sha256": "e34f2d4f3b5909e32c899d7306dbfd4f8e34a438e215931133faaf93e31859e6",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "fygb0228_1",
+      "question_id": 49565,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "fygb0228",
+      "boxes": [
+        [
+          684,
+          202,
+          1055,
+          237
+        ]
+      ],
+      "masked_pixels": 12985,
+      "page_pixels": 3976091,
+      "masked_area_fraction": 0.003265770325679166,
+      "source_sha256": "6763f397df5f8adafe63efea4bf8671fa1cbcddfbefb88359e970e025b2c660d",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "qzcc0228_3",
+      "question_id": 59041,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "qzcc0228",
+      "boxes": [
+        [
+          190,
+          57,
+          435,
+          93
+        ]
+      ],
+      "masked_pixels": 8820,
+      "page_pixels": 1077680,
+      "masked_area_fraction": 0.008184247643085146,
+      "source_sha256": "e3114552d80cefef8bd8c4110527d3ff06d31f44e55cb711c20da36b1afc5d58",
+      "question_types": [
+        "table/list"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "lfgl0228_2",
+      "question_id": 5556,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "lfgl0228",
+      "boxes": [
+        [
+          416,
+          330,
+          625,
+          365
+        ]
+      ],
+      "masked_pixels": 7315,
+      "page_pixels": 3795792,
+      "masked_area_fraction": 0.001927134047387212,
+      "source_sha256": "2d2ba882c02db03ab1c6af4448c20cd77a89a786cf06614cc69804fb936c8ca1",
+      "question_types": [
+        "table/list"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "nxnw0228_1",
+      "question_id": 50776,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": false,
+      "source_document_id": "nxnw0228",
+      "exclusion_reason": "no_exact_localization_match"
+    },
+    {
+      "document_id": "qhmx0021_2",
+      "question_id": 53479,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "qhmx0021",
+      "boxes": [
+        [
+          566,
+          472,
+          1071,
+          512
+        ]
+      ],
+      "masked_pixels": 20200,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.005317832640962054,
+      "source_sha256": "8069cffde33ae399804b18113d551dffd171f15590ac7af5ced8b137b373de0d",
+      "question_types": [
+        "free_text",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "gfhv0228_2",
+      "question_id": 59374,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "gfhv0228",
+      "boxes": [
+        [
+          938,
+          2003,
+          1211,
+          2039
+        ]
+      ],
+      "masked_pixels": 9828,
+      "page_pixels": 4163553,
+      "masked_area_fraction": 0.0023604839424405067,
+      "source_sha256": "dcee9f25026613be86d587490461894477a1b5809639fbe57e0cc0166a97390e",
+      "question_types": [
+        "handwritten",
+        "table/list",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "hlxc0081_1",
+      "question_id": 58330,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "hlxc0081",
+      "boxes": [
+        [
+          552,
+          129,
+          1419,
+          230
+        ]
+      ],
+      "masked_pixels": 87567,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.023052804498570504,
+      "source_sha256": "a6d31c03e7edad60dc7e4088c40d159eaf6a91cf63690da2eda6070f45ca5b61",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "gmgv0228_1",
+      "question_id": 59927,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "gmgv0228",
+      "boxes": [
+        [
+          109,
+          93,
+          336,
+          167
+        ]
+      ],
+      "masked_pixels": 16798,
+      "page_pixels": 4258828,
+      "masked_area_fraction": 0.003944277627553871,
+      "source_sha256": "ecd0394ff1889d1e6191a8a8a0b7b3fe289da92747a9bbecc91ba53d3c2d8a02",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "rrdd0228_14",
+      "question_id": 50289,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "rrdd0228",
+      "boxes": [
+        [
+          897,
+          193,
+          933,
+          220
+        ]
+      ],
+      "masked_pixels": 972,
+      "page_pixels": 4179464,
+      "masked_area_fraction": 0.00023256570699017865,
+      "source_sha256": "246e2d1c55f1a0f660823743fdc5ec87e1c7b5d0959b1a55bc26178e2264d3d1",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "nglg0227_3",
+      "question_id": 30356,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "nglg0227",
+      "boxes": [
+        [
+          746,
+          316,
+          1052,
+          357
+        ]
+      ],
+      "masked_pixels": 12546,
+      "page_pixels": 4083295,
+      "masked_area_fraction": 0.003072518639970906,
+      "source_sha256": "305b4d7e3051a285cba21a0384bfb22d535e74d5270d61c657171849bc50006d",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "htxg0227_3",
+      "question_id": 63532,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "htxg0227",
+      "boxes": [
+        [
+          1247,
+          444,
+          1468,
+          514
+        ]
+      ],
+      "masked_pixels": 15470,
+      "page_pixels": 4305504,
+      "masked_area_fraction": 0.0035930752822433795,
+      "source_sha256": "b83062e482a264caa12b06637f6c2e6e7e12bbb1f2e4c97f90c7d150eafd00ad",
+      "question_types": [
+        "table/list",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "qffw0228_23",
+      "question_id": 50418,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "qffw0228",
+      "boxes": [
+        [
+          399,
+          378,
+          1488,
+          421
+        ]
+      ],
+      "masked_pixels": 46827,
+      "page_pixels": 3942000,
+      "masked_area_fraction": 0.011878995433789955,
+      "source_sha256": "0aac3454d92b35572e8c02cdce0983704f590f4bdac3fa1f466553770b4ccefa",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "hlkb0228_1",
+      "question_id": 49132,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "hlkb0228",
+      "boxes": [
+        [
+          631,
+          247,
+          1139,
+          285
+        ]
+      ],
+      "masked_pixels": 19304,
+      "page_pixels": 4190340,
+      "masked_area_fraction": 0.0046067860841841,
+      "source_sha256": "b3f76268aa20fb8a9057fb6f1d2120cf7a24c4517b04a50a456693fa1be31af4",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "hrfl0079_8",
+      "question_id": 18733,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "hrfl0079",
+      "boxes": [
+        [
+          539,
+          261,
+          1146,
+          301
+        ]
+      ],
+      "masked_pixels": 24280,
+      "page_pixels": 3545940,
+      "masked_area_fraction": 0.00684726757925966,
+      "source_sha256": "62a1b2f43b6718b42761ebd43afe37e600426c2dc36aba794fd76fa35931fe97",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "flfl0228_1",
+      "question_id": 5413,
+      "role": "COMPLEX_BUSINESS",
+      "eligible": true,
+      "source_document_id": "flfl0228",
+      "boxes": [
+        [
+          134,
+          55,
+          604,
+          88
+        ]
+      ],
+      "masked_pixels": 15510,
+      "page_pixels": 3809520,
+      "masked_area_fraction": 0.004071379071379071,
+      "source_sha256": "8826625a3cdb0a606f50b6860dfa38fe5b6c1caa122d88cb38a81415c8ce2349",
+      "question_types": [
+        "table/list",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "xlvf0001_1",
+      "question_id": 6806,
+      "role": "COMPLEX_CONTEXT",
+      "eligible": true,
+      "source_document_id": "xlvf0001",
+      "boxes": [
+        [
+          512,
+          297,
+          1142,
+          330
+        ]
+      ],
+      "masked_pixels": 20790,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.0054731554755248065,
+      "source_sha256": "72e7f0441ebc7a1aa52aabf05801d7b7943a77e7466d56b73f72b8192744b5af",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "ljlm0227_1",
+      "question_id": 58785,
+      "role": "COMPLEX_CONTEXT",
+      "eligible": true,
+      "source_document_id": "ljlm0227",
+      "boxes": [
+        [
+          513,
+          384,
+          876,
+          417
+        ]
+      ],
+      "masked_pixels": 11979,
+      "page_pixels": 4297518,
+      "masked_area_fraction": 0.002787422879904168,
+      "source_sha256": "8823397039eeea988c8c0c0eacbacd45bb4191a70962d6bced948b653d17f887",
+      "question_types": [
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "fxjp0080_1",
+      "question_id": 58646,
+      "role": "COMPLEX_CONTEXT",
+      "eligible": true,
+      "source_document_id": "fxjp0080",
+      "boxes": [
+        [
+          680,
+          467,
+          1052,
+          581
+        ]
+      ],
+      "masked_pixels": 42408,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.011164289437520732,
+      "source_sha256": "96a83ee4859aa2b741154786b4b6613c44eadb736017786005f16eb45d3e907c",
+      "question_types": [
+        "free_text",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "fglc0003_1",
+      "question_id": 52622,
+      "role": "COMPLEX_CONTEXT",
+      "eligible": true,
+      "source_document_id": "fglc0003",
+      "boxes": [
+        [
+          274,
+          380,
+          1255,
+          409
+        ]
+      ],
+      "masked_pixels": 28449,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.007489456475382647,
+      "source_sha256": "600a07063048b602f057ffc3febfd33e59e69afcc0d1794616be071216cb7cab",
+      "question_types": [
+        "free_text"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "pgxg0227_1",
+      "question_id": 60510,
+      "role": "COMPLEX_CONTEXT",
+      "eligible": true,
+      "source_document_id": "pgxg0227",
+      "boxes": [
+        [
+          829,
+          203,
+          1137,
+          242
+        ]
+      ],
+      "masked_pixels": 12012,
+      "page_pixels": 4400851,
+      "masked_area_fraction": 0.0027294720952833894,
+      "source_sha256": "9948aab1e55eed0bc0cdfa4c7b0267c4d191919e616e9eba4f55aa71c895950d",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "myjf0004_2",
+      "question_id": 7020,
+      "role": "COMPLEX_CONTEXT",
+      "eligible": true,
+      "source_document_id": "myjf0004",
+      "boxes": [
+        [
+          176,
+          204,
+          1386,
+          245
+        ],
+        [
+          176,
+          204,
+          1386,
+          291
+        ]
+      ],
+      "masked_pixels": 105270,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.02771327931257799,
+      "source_sha256": "58c0d6d36522b11208d5859db8cef6943544f25c9cc41a4378e2c6ce063c805b",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "tlyl0226_10",
+      "question_id": 64468,
+      "role": "COMPLEX_CONTEXT",
+      "eligible": true,
+      "source_document_id": "tlyl0226",
+      "boxes": [
+        [
+          383,
+          173,
+          398,
+          187
+        ]
+      ],
+      "masked_pixels": 210,
+      "page_pixels": 619542,
+      "masked_area_fraction": 0.00033896007050369465,
+      "source_sha256": "f9677d78de4ead83dbfae6e453e3395fd1c1da211c2bea342fd021a2658dca99",
+      "question_types": [
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "lkfp0000_1",
+      "question_id": 6770,
+      "role": "COMPLEX_CONTEXT",
+      "eligible": true,
+      "source_document_id": "lkfp0000",
+      "boxes": [
+        [
+          621,
+          487,
+          1105,
+          556
+        ]
+      ],
+      "masked_pixels": 33396,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.008791798954335087,
+      "source_sha256": "2f60374f44b883034bbedecfaf44308a41735af6ac9d37d996e135abb28af83b",
+      "question_types": [
+        "free_text",
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "zpgw0228_2",
+      "question_id": 50860,
+      "role": "COMPLEX_CONTEXT",
+      "eligible": true,
+      "source_document_id": "zpgw0228",
+      "boxes": [
+        [
+          340,
+          295,
+          577,
+          352
+        ]
+      ],
+      "masked_pixels": 13509,
+      "page_pixels": 1347584,
+      "masked_area_fraction": 0.010024607000379939,
+      "source_sha256": "0175942b1130ca9f6098876d55b49028ecd444e1a019fed047c7293b843d6403",
+      "question_types": [
+        "handwritten",
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "hnjn0226_2",
+      "question_id": 5621,
+      "role": "COMPLEX_CONTEXT",
+      "eligible": true,
+      "source_document_id": "hnjn0226",
+      "boxes": [
+        [
+          907,
+          341,
+          964,
+          369
+        ]
+      ],
+      "masked_pixels": 1596,
+      "page_pixels": 3751709,
+      "masked_area_fraction": 0.0004254061282471535,
+      "source_sha256": "9ec39ddc7f150bfd47c5a64852ef7f74685f54aeb720786d32b29ff0bd45819d",
+      "question_types": [
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "rnjg0227_1",
+      "question_id": 37175,
+      "role": "COMPLEX_CONTEXT",
+      "eligible": true,
+      "source_document_id": "rnjg0227",
+      "boxes": [
+        [
+          348,
+          1247,
+          929,
+          1317
+        ],
+        [
+          348,
+          1288,
+          929,
+          1317
+        ]
+      ],
+      "masked_pixels": 40670,
+      "page_pixels": 2437152,
+      "masked_area_fraction": 0.016687510668189756,
+      "source_sha256": "99b623b0b47928fef5a72a6179728569b8b6ff34ee96ec05135742c57b6b2536",
+      "question_types": [
+        "free_text",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "pygf0227_4",
+      "question_id": 61268,
+      "role": "COMPLEX_CONTEXT",
+      "eligible": true,
+      "source_document_id": "pygf0227",
+      "boxes": [
+        [
+          1484,
+          772,
+          1549,
+          804
+        ]
+      ],
+      "masked_pixels": 2080,
+      "page_pixels": 4060680,
+      "masked_area_fraction": 0.0005122294788065053,
+      "source_sha256": "22b4bad6fa90a4dacdbfdea7030c730c01b561a5f3bb3717b0fb72e5f28ce1b4",
+      "question_types": [
+        "free_text",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "rtjf0226_1",
+      "question_id": 1191,
+      "role": "COMPLEX_CONTEXT",
+      "eligible": true,
+      "source_document_id": "rtjf0226",
+      "boxes": [
+        [
+          599,
+          271,
+          812,
+          307
+        ]
+      ],
+      "masked_pixels": 7668,
+      "page_pixels": 3801200,
+      "masked_area_fraction": 0.0020172577080921814,
+      "source_sha256": "4f7fa4f04c1ce6e106291b0c032d3d136b1e37906941910d30ebbe9aec424c7b",
+      "question_types": [
+        "form",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "nhgh0228_6",
+      "question_id": 5605,
+      "role": "COMPLEX_CONTEXT",
+      "eligible": true,
+      "source_document_id": "nhgh0228",
+      "boxes": [
+        [
+          468,
+          342,
+          1083,
+          379
+        ]
+      ],
+      "masked_pixels": 22755,
+      "page_pixels": 3747804,
+      "masked_area_fraction": 0.006071555502902499,
+      "source_sha256": "2250d0799f7818b0399b10311069cf8e1c85539cc73fb08135b5e5ae4281f7df",
+      "question_types": [
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "kmfh0023_2",
+      "question_id": 53813,
+      "role": "COMPLEX_CONTEXT",
+      "eligible": true,
+      "source_document_id": "kmfh0023",
+      "boxes": [
+        [
+          545,
+          279,
+          1108,
+          326
+        ]
+      ],
+      "masked_pixels": 26461,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.006966097500618659,
+      "source_sha256": "1cc5a53e99012be4d7da3134d5dad4969187b215859ccb26e4aabd46dc72e81e",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "qjvj0224_2",
+      "question_id": 4461,
+      "role": "COMPLEX_CONTEXT",
+      "eligible": true,
+      "source_document_id": "qjvj0224",
+      "boxes": [
+        [
+          734,
+          1313,
+          925,
+          1387
+        ]
+      ],
+      "masked_pixels": 14134,
+      "page_pixels": 3750006,
+      "masked_area_fraction": 0.003769060636169649,
+      "source_sha256": "af7e3cd1ac4cc94ee63219590a2e60c9904e98745c3b3c1ac2b17eee0e6f35b3",
+      "question_types": [
+        "figure/diagram",
+        "others"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "hnhd0227_8",
+      "question_id": 32877,
+      "role": "COMPLEX_CONTEXT",
+      "eligible": true,
+      "source_document_id": "hnhd0227",
+      "boxes": [
+        [
+          407,
+          661,
+          455,
+          688
+        ],
+        [
+          407,
+          661,
+          625,
+          690
+        ]
+      ],
+      "masked_pixels": 6322,
+      "page_pixels": 4099599,
+      "masked_area_fraction": 0.0015421020446146074,
+      "source_sha256": "3aedbae2b2cf74d6b53bd51c9beda054c77edda7e5d8ebd1c860f9dcce49520e",
+      "question_types": [
+        "free_text"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "nmcd0228_27",
+      "question_id": 50317,
+      "role": "COMPLEX_CONTEXT",
+      "eligible": true,
+      "source_document_id": "nmcd0228",
+      "boxes": [
+        [
+          863,
+          179,
+          901,
+          206
+        ]
+      ],
+      "masked_pixels": 1026,
+      "page_pixels": 4262895,
+      "masked_area_fraction": 0.00024068150869303607,
+      "source_sha256": "52edcf5ca3140fcf5a3fac333b697437664f4ef853666cdb50f69a16137f24be",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "qxpn0081_9",
+      "question_id": 59352,
+      "role": "COMPLEX_CONTEXT",
+      "eligible": true,
+      "source_document_id": "qxpn0081",
+      "boxes": [
+        [
+          1102,
+          1430,
+          1169,
+          1468
+        ]
+      ],
+      "masked_pixels": 2546,
+      "page_pixels": 3729000,
+      "masked_area_fraction": 0.0006827567712523465,
+      "source_sha256": "2efdc820128adc0e70863b1436b6b2f8c0cf216913b7d5f248e0ad8cb1635399",
+      "question_types": [
+        "table/list"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "pydv0228_9",
+      "question_id": 47494,
+      "role": "COMPLEX_CONTEXT",
+      "eligible": true,
+      "source_document_id": "pydv0228",
+      "boxes": [
+        [
+          317,
+          106,
+          509,
+          135
+        ]
+      ],
+      "masked_pixels": 5568,
+      "page_pixels": 4034076,
+      "masked_area_fraction": 0.0013802417207806695,
+      "source_sha256": "bddbab85009d84882782088dbbfd955806dc79a152fec5093f7de4e8e392f928",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "gknp0227_6",
+      "question_id": 59476,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "gknp0227",
+      "boxes": [
+        [
+          1715,
+          521,
+          1741,
+          691
+        ]
+      ],
+      "masked_pixels": 4420,
+      "page_pixels": 3960976,
+      "masked_area_fraction": 0.0011158865895678238,
+      "source_sha256": "72e298b69e6811a41ca745be29f88f2167f8a6899a7ce454001b38a5cb0cd503",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "gfyk0226_6",
+      "question_id": 60099,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "gfyk0226",
+      "boxes": [
+        [
+          368,
+          1525,
+          399,
+          1558
+        ]
+      ],
+      "masked_pixels": 1023,
+      "page_pixels": 3678360,
+      "masked_area_fraction": 0.00027811307212997097,
+      "source_sha256": "cdffb823f27540baa0c0454da0d95792452b4c1e45b13f5af3862cbcc276cc76",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "xsdp0078_1",
+      "question_id": 56062,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "xsdp0078",
+      "boxes": [
+        [
+          507,
+          1924,
+          1222,
+          1988
+        ]
+      ],
+      "masked_pixels": 45760,
+      "page_pixels": 3734085,
+      "masked_area_fraction": 0.012254675509529108,
+      "source_sha256": "2a9256b78fa74d209e956d0f27530d08633e23677af1874903a438edc2858084",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "jnyg0227_1",
+      "question_id": 64974,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "jnyg0227",
+      "boxes": [
+        [
+          372,
+          381,
+          1293,
+          447
+        ],
+        [
+          895,
+          321,
+          1368,
+          363
+        ]
+      ],
+      "masked_pixels": 80652,
+      "page_pixels": 4065240,
+      "masked_area_fraction": 0.019839419074888568,
+      "source_sha256": "12ff9dc23ad3e24453fc86bf9b9378b58ab7cb91cbc000057459fa97f3023c74",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "tyhk0228_2",
+      "question_id": 55211,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "tyhk0228",
+      "boxes": [
+        [
+          1041,
+          744,
+          1220,
+          780
+        ]
+      ],
+      "masked_pixels": 6444,
+      "page_pixels": 3944640,
+      "masked_area_fraction": 0.0016336091506449258,
+      "source_sha256": "0333e9627f031c66031929b756a4cd5ff0587a3be13e604e197a7d24be4fff70",
+      "question_types": [
+        "table/list"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "gpfl0225_5",
+      "question_id": 52287,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "gpfl0225",
+      "boxes": [
+        [
+          353,
+          349,
+          843,
+          385
+        ]
+      ],
+      "masked_pixels": 17640,
+      "page_pixels": 3740000,
+      "masked_area_fraction": 0.004716577540106952,
+      "source_sha256": "acd75d9b9ae6717103593d034a2e8eccb331386c2c3d584fe09ad2b51d3fcd4a",
+      "question_types": [
+        "free_text"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "rtcw0217_1",
+      "question_id": 46109,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "rtcw0217",
+      "boxes": [
+        [
+          727,
+          230,
+          969,
+          266
+        ]
+      ],
+      "masked_pixels": 8712,
+      "page_pixels": 3891936,
+      "masked_area_fraction": 0.002238474630620853,
+      "source_sha256": "5ef118e8036f208d6e0b8671c149f1394b98a4974cdb4b132e0ef1d8d8c39bde",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "jyfk0226_1",
+      "question_id": 59979,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "jyfk0226",
+      "boxes": [
+        [
+          316,
+          948,
+          356,
+          982
+        ]
+      ],
+      "masked_pixels": 1360,
+      "page_pixels": 4166135,
+      "masked_area_fraction": 0.00032644165395504464,
+      "source_sha256": "f03e6f52eccc3c00d6667b6b2e019866f69b95cdb698151d8be16012217f9510",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "grcl0079_2",
+      "question_id": 55951,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "grcl0079",
+      "boxes": [
+        [
+          842,
+          1948,
+          998,
+          1983
+        ]
+      ],
+      "masked_pixels": 5460,
+      "page_pixels": 3752730,
+      "masked_area_fraction": 0.0014549408030953466,
+      "source_sha256": "3b27d8c66828c371ef15abe4d480563443c60e4d542494acfb30e8977aee29cc",
+      "question_types": [
+        "free_text"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "pgpg0227_1",
+      "question_id": 37304,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "pgpg0227",
+      "boxes": [
+        [
+          1058,
+          1373,
+          1142,
+          1405
+        ]
+      ],
+      "masked_pixels": 2688,
+      "page_pixels": 4342152,
+      "masked_area_fraction": 0.0006190478822482492,
+      "source_sha256": "75b9ebdd90669ccba2d7328b3af58cee553206380bc636f291839932b9f504e9",
+      "question_types": [
+        "free_text"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "hhfm0227_1",
+      "question_id": 58737,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "hhfm0227",
+      "boxes": [
+        [
+          1024,
+          806,
+          1666,
+          874
+        ]
+      ],
+      "masked_pixels": 43656,
+      "page_pixels": 4337340,
+      "masked_area_fraction": 0.010065155141169473,
+      "source_sha256": "11a96d8772675488e9e77ef2ba648fa71d9108e5c81e72765ed2035f00ebf390",
+      "question_types": [
+        "free_text"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "mfpj0226_1",
+      "question_id": 887,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "mfpj0226",
+      "boxes": [
+        [
+          888,
+          1295,
+          1202,
+          1329
+        ]
+      ],
+      "masked_pixels": 10676,
+      "page_pixels": 3864432,
+      "masked_area_fraction": 0.0027626310930040946,
+      "source_sha256": "a2e565054b53ac769edc54420682c5c4414aca4c6c6b41e582f76a25a00b0d2b",
+      "question_types": [
+        "free_text"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "gpfl0225_7",
+      "question_id": 5591,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "gpfl0225",
+      "boxes": [
+        [
+          988,
+          720,
+          1298,
+          753
+        ],
+        [
+          1063,
+          720,
+          1298,
+          753
+        ]
+      ],
+      "masked_pixels": 10230,
+      "page_pixels": 3740000,
+      "masked_area_fraction": 0.002735294117647059,
+      "source_sha256": "f64305bee2aad543982fabbeedd0cd2348ba634f96a58849ffe207ceb3a9ccb3",
+      "question_types": [
+        "free_text"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "qqyv0228_2",
+      "question_id": 2006,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "qqyv0228",
+      "boxes": [
+        [
+          953,
+          1737,
+          1061,
+          1762
+        ],
+        [
+          953,
+          1737,
+          1215,
+          1762
+        ]
+      ],
+      "masked_pixels": 6550,
+      "page_pixels": 3812624,
+      "masked_area_fraction": 0.0017179769103903243,
+      "source_sha256": "ab492acedcd41ca243ce6fa9ca91ba2e6c53bce20d9b21d6414759ab41aef40f",
+      "question_types": [
+        "free_text"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "krpn0081_1",
+      "question_id": 56079,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "krpn0081",
+      "boxes": [
+        [
+          320,
+          533,
+          508,
+          566
+        ]
+      ],
+      "masked_pixels": 6204,
+      "page_pixels": 3710355,
+      "masked_area_fraction": 0.0016720772001600926,
+      "source_sha256": "257c2a9f678990289b389ffa8858eb3076b4e851b601968c903f4b21dc9eca91",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "tjpv0228_1",
+      "question_id": 2277,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "tjpv0228",
+      "boxes": [
+        [
+          957,
+          233,
+          1009,
+          258
+        ]
+      ],
+      "masked_pixels": 1300,
+      "page_pixels": 3781690,
+      "masked_area_fraction": 0.0003437616515367468,
+      "source_sha256": "ade35fd991d39833be5f0c70fb9b198d2d90e56f2575242d336037a073423e7f",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "hkyh0078_1",
+      "question_id": 58380,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "hkyh0078",
+      "boxes": [
+        [
+          180,
+          682,
+          608,
+          710
+        ],
+        [
+          180,
+          682,
+          822,
+          710
+        ]
+      ],
+      "masked_pixels": 17976,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.004732344532372965,
+      "source_sha256": "1d97bc88199be35234d966a511aade9c592ec631efae124af6a0568813a8d889",
+      "question_types": [
+        "free_text"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "nfbg0227_1",
+      "question_id": 26926,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "nfbg0227",
+      "boxes": [
+        [
+          499,
+          158,
+          1293,
+          216
+        ]
+      ],
+      "masked_pixels": 46052,
+      "page_pixels": 4067023,
+      "masked_area_fraction": 0.01132327011674141,
+      "source_sha256": "694bdb020e8bb28f976fb2237342db6ac1232e3c9cd839ca8d36930a5e626331",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "fsgv0079_1",
+      "question_id": 18508,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "fsgv0079",
+      "boxes": [
+        [
+          701,
+          235,
+          1046,
+          264
+        ]
+      ],
+      "masked_pixels": 10005,
+      "page_pixels": 3784732,
+      "masked_area_fraction": 0.0026435161062923346,
+      "source_sha256": "030c000ec174489cfed8d1acce143ff37d47020a8fe83e818f14bedd21e4ff0b",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "pfkw0227_2",
+      "question_id": 63199,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "pfkw0227",
+      "boxes": [
+        [
+          501,
+          1240,
+          852,
+          1270
+        ]
+      ],
+      "masked_pixels": 10530,
+      "page_pixels": 4397598,
+      "masked_area_fraction": 0.0023944889914903544,
+      "source_sha256": "83f0912d9a1304ce5da3e9db3184738bfc0dc940357b1e37e414c0c61450fb11",
+      "question_types": [
+        "free_text"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "lfkl0226_1",
+      "question_id": 63835,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "lfkl0226",
+      "boxes": [
+        [
+          413,
+          866,
+          456,
+          879
+        ]
+      ],
+      "masked_pixels": 559,
+      "page_pixels": 975240,
+      "masked_area_fraction": 0.0005731922398589065,
+      "source_sha256": "67dc0b6df56f1b5fb6079f507cb531abd12e76359d123ed0d35aa362afe18c76",
+      "question_types": [
+        "free_text"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "rmpn0000_1",
+      "question_id": 6781,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "rmpn0000",
+      "boxes": [
+        [
+          280,
+          759,
+          540,
+          795
+        ]
+      ],
+      "masked_pixels": 9360,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.002464104629673506,
+      "source_sha256": "a9fce3c98e5a8a1c57dcbd62049317ae7efd56ba5b216a2343e4e08b7ec67789",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "sxvg0227_1",
+      "question_id": 32896,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "sxvg0227",
+      "boxes": [
+        [
+          479,
+          913,
+          919,
+          949
+        ]
+      ],
+      "masked_pixels": 15840,
+      "page_pixels": 4301224,
+      "masked_area_fraction": 0.003682672653179653,
+      "source_sha256": "4824aadaab1ea2ae2476cc2d79d8999e8f65f55400ca1a9e667fba7cee0c39f4",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "rphx0227_1",
+      "question_id": 59880,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "rphx0227",
+      "boxes": [
+        [
+          865,
+          369,
+          1141,
+          431
+        ]
+      ],
+      "masked_pixels": 17112,
+      "page_pixels": 4276181,
+      "masked_area_fraction": 0.00400170151824724,
+      "source_sha256": "635d1f7bbeab21e33c8ef7c975d302a3427b1c7da2954553c1b8cfbb0abb3aee",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "sxjh0227_1",
+      "question_id": 51720,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "sxjh0227",
+      "boxes": [
+        [
+          914,
+          1830,
+          1434,
+          1864
+        ]
+      ],
+      "masked_pixels": 17680,
+      "page_pixels": 3658620,
+      "masked_area_fraction": 0.00483242315408542,
+      "source_sha256": "ebbbe5af1faa1bcbec7f7198c4868e1498321a23a1150ba56613e26ec1740a61",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "tnbf0227_1",
+      "question_id": 64893,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "tnbf0227",
+      "boxes": [
+        [
+          748,
+          526,
+          826,
+          559
+        ]
+      ],
+      "masked_pixels": 2574,
+      "page_pixels": 4083295,
+      "masked_area_fraction": 0.0006303732647286077,
+      "source_sha256": "b0ea0fa7ba6072048bd76dc6346e3314bf17ba7a6b36841c74cc106dd78a3fd2",
+      "question_types": [
+        "table/list"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "jkhn0226_1",
+      "question_id": 43727,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "jkhn0226",
+      "boxes": [
+        [
+          729,
+          54,
+          812,
+          117
+        ]
+      ],
+      "masked_pixels": 5229,
+      "page_pixels": 3740000,
+      "masked_area_fraction": 0.0013981283422459894,
+      "source_sha256": "1bdae3fe0c7c5e83a815e5636d72dfaba857d468b447d3d28298248c98734a1f",
+      "question_types": [
+        "free_text"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "fpcf0004_3",
+      "question_id": 52538,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "fpcf0004",
+      "boxes": [
+        [
+          685,
+          849,
+          1156,
+          887
+        ]
+      ],
+      "masked_pixels": 17898,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.004711810327125685,
+      "source_sha256": "b685c5283668eae44d886a0881626b7e56f11ea473e7f21f7ca967666597974a",
+      "question_types": [
+        "free_text",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "fhnw0228_1",
+      "question_id": 61131,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "fhnw0228",
+      "boxes": [
+        [
+          608,
+          138,
+          1140,
+          187
+        ]
+      ],
+      "masked_pixels": 26068,
+      "page_pixels": 2651802,
+      "masked_area_fraction": 0.009830296530434776,
+      "source_sha256": "5e268fc06bf529a7fb02cfcc426132d4f572d82f8fe8d05a9b277c194fa2b4e3",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "slkk0226_1",
+      "question_id": 51785,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "slkk0226",
+      "boxes": [
+        [
+          512,
+          512,
+          1249,
+          544
+        ]
+      ],
+      "masked_pixels": 23584,
+      "page_pixels": 3775680,
+      "masked_area_fraction": 0.006246292058649038,
+      "source_sha256": "de4e14c67442f400de842c82a17f89e314180cc8b8fd6e713f6072277c33f08e",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "ggpk0225_1",
+      "question_id": 4367,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "ggpk0225",
+      "boxes": [
+        [
+          1032,
+          281,
+          1189,
+          341
+        ]
+      ],
+      "masked_pixels": 9420,
+      "page_pixels": 3942300,
+      "masked_area_fraction": 0.002389468077010882,
+      "source_sha256": "4d5f81675ceb4a5a4728ef28a8524f407893d46c8e3a442565cfe75c812c5ff4",
+      "question_types": [
+        "Image/Photo"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "pybn0226_2",
+      "question_id": 51478,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "pybn0226",
+      "boxes": [
+        [
+          389,
+          473,
+          559,
+          500
+        ]
+      ],
+      "masked_pixels": 4590,
+      "page_pixels": 3740000,
+      "masked_area_fraction": 0.0012272727272727272,
+      "source_sha256": "4a27bfdd45522c3aeaff059646ad1a9137d11e9b2cb60b71f57269cb30ed29b5",
+      "question_types": [
+        "free_text"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "ztmb0228_1",
+      "question_id": 49111,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "ztmb0228",
+      "boxes": [
+        [
+          1097,
+          921,
+          1445,
+          958
+        ]
+      ],
+      "masked_pixels": 12876,
+      "page_pixels": 2890563,
+      "masked_area_fraction": 0.004454495542909807,
+      "source_sha256": "1fc559b01668e1c8414a4777ba70b10c5a7671486ec712eab07185101064ce47",
+      "question_types": [
+        "free_text"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "xhwm0227_4",
+      "question_id": 58915,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "xhwm0227",
+      "boxes": [
+        [
+          877,
+          330,
+          1130,
+          364
+        ]
+      ],
+      "masked_pixels": 8602,
+      "page_pixels": 4383093,
+      "masked_area_fraction": 0.0019625410640385682,
+      "source_sha256": "4fdd053d2486c7e5bcc3b877aef543f1ad28ee4052904f40f96906c92979b42f",
+      "question_types": [
+        "free_text"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "gkpk0226_1",
+      "question_id": 60403,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "gkpk0226",
+      "boxes": [
+        [
+          299,
+          171,
+          568,
+          286
+        ]
+      ],
+      "masked_pixels": 30935,
+      "page_pixels": 3664384,
+      "masked_area_fraction": 0.008442073756462205,
+      "source_sha256": "585d677b43f3b53e54f8fe26432082859d19bd1ac8bbeff8acab73d32f53a799",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "tkmk0226_2",
+      "question_id": 51687,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "tkmk0226",
+      "boxes": [
+        [
+          467,
+          410,
+          545,
+          446
+        ]
+      ],
+      "masked_pixels": 2808,
+      "page_pixels": 3850200,
+      "masked_area_fraction": 0.000729312762973352,
+      "source_sha256": "38bec880a9569618706483e32301a433cdb0a3d8b7021283e30c6b90ff973be5",
+      "question_types": [
+        "free_text",
+        "others"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "lnmm0081_7",
+      "question_id": 56084,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "lnmm0081",
+      "boxes": [
+        [
+          909,
+          1117,
+          1170,
+          1168
+        ]
+      ],
+      "masked_pixels": 13311,
+      "page_pixels": 3729000,
+      "masked_area_fraction": 0.003569589702333065,
+      "source_sha256": "3196df41e965bce97b78408178258e8d94c985c7c18d14c455d384b5e3f1d422",
+      "question_types": [
+        "layout",
+        "Image/Photo"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "nhpj0226_1",
+      "question_id": 867,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "nhpj0226",
+      "boxes": [
+        [
+          282,
+          580,
+          623,
+          616
+        ],
+        [
+          363,
+          580,
+          623,
+          616
+        ]
+      ],
+      "masked_pixels": 12276,
+      "page_pixels": 3788120,
+      "masked_area_fraction": 0.0032406576349218084,
+      "source_sha256": "eab6486b8a5253a41d155bcff63a8b772622dfcee1394fcf68b710024d575647",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "ryvw0217_1",
+      "question_id": 45800,
+      "role": "FREE_NARRATIVE",
+      "eligible": false,
+      "source_document_id": "ryvw0217",
+      "exclusion_reason": "no_exact_localization_match"
+    },
+    {
+      "document_id": "xkwc0228_25",
+      "question_id": 56401,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "xkwc0228",
+      "boxes": [
+        [
+          1141,
+          531,
+          1307,
+          583
+        ],
+        [
+          1142,
+          531,
+          1259,
+          560
+        ]
+      ],
+      "masked_pixels": 8632,
+      "page_pixels": 4132424,
+      "masked_area_fraction": 0.0020888466430356613,
+      "source_sha256": "2e01b1447501aaaee902d41cf251efa4069809129a56ae780666c7ceb1c64c19",
+      "question_types": [
+        "figure/diagram"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "fkpj0226_2",
+      "question_id": 674,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "fkpj0226",
+      "boxes": [
+        [
+          750,
+          275,
+          1028,
+          323
+        ]
+      ],
+      "masked_pixels": 13344,
+      "page_pixels": 3547968,
+      "masked_area_fraction": 0.0037610260295470534,
+      "source_sha256": "dd6522b6f03b8cf3b550206c34bfcb4f9510b7c951275a09b07db72c54af9c77",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "srxv0228_1",
+      "question_id": 52144,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "srxv0228",
+      "boxes": [
+        [
+          769,
+          427,
+          1000,
+          462
+        ]
+      ],
+      "masked_pixels": 8085,
+      "page_pixels": 3793580,
+      "masked_area_fraction": 0.0021312322397313357,
+      "source_sha256": "86f672d581701ea5b0315a517c6fa0a5e904370904d6412268d0eeba457a3f49",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "nsnl0226_1",
+      "question_id": 45016,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "nsnl0226",
+      "boxes": [
+        [
+          232,
+          155,
+          596,
+          186
+        ]
+      ],
+      "masked_pixels": 11284,
+      "page_pixels": 935344,
+      "masked_area_fraction": 0.012064010674147693,
+      "source_sha256": "41fc06a0c12d67b73014e77451a7a9ceec0c543309d09b379c486c31091c1db3",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "fpdp0080_1",
+      "question_id": 58501,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "fpdp0080",
+      "boxes": [
+        [
+          501,
+          564,
+          827,
+          612
+        ]
+      ],
+      "masked_pixels": 15648,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.004119477483454169,
+      "source_sha256": "976fdad9ef45e1ed17caed682bb96ca6c0ec94bc197619282f0cfd6fd472a1cc",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "kfpj0226_2",
+      "question_id": 788,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "kfpj0226",
+      "boxes": [
+        [
+          227,
+          223,
+          1489,
+          300
+        ]
+      ],
+      "masked_pixels": 97174,
+      "page_pixels": 3921030,
+      "masked_area_fraction": 0.024782773913997087,
+      "source_sha256": "a0583efd36948aa705a010837683b191b697b9c2a2711f690c5fca5df1cc3c9e",
+      "question_types": [
+        "free_text"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "fgkw0228_4",
+      "question_id": 62001,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "fgkw0228",
+      "boxes": [
+        [
+          264,
+          288,
+          372,
+          321
+        ],
+        [
+          356,
+          290,
+          372,
+          321
+        ]
+      ],
+      "masked_pixels": 3564,
+      "page_pixels": 4264976,
+      "masked_area_fraction": 0.0008356436237859252,
+      "source_sha256": "cec2be0677e16204148775d625280dc9ea45cd417cad2d72aa00a50441c82292",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "gxmw0227_1",
+      "question_id": 60953,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "gxmw0227",
+      "boxes": [
+        [
+          895,
+          484,
+          1163,
+          513
+        ]
+      ],
+      "masked_pixels": 7772,
+      "page_pixels": 1805150,
+      "masked_area_fraction": 0.004305459380106917,
+      "source_sha256": "ce27e7522d43fb1163e69cfa75c6840810b47938a5913ba1cab537e89c2d9dcf",
+      "question_types": [
+        "free_text",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "yrnf0227_1",
+      "question_id": 64926,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "yrnf0227",
+      "boxes": [
+        [
+          261,
+          434,
+          1037,
+          964
+        ]
+      ],
+      "masked_pixels": 411280,
+      "page_pixels": 4152623,
+      "masked_area_fraction": 0.09904101576280823,
+      "source_sha256": "ca3d61a4daf3d1e6aabba85492f8a5b2fe53812d4094d84890f9ab6a7add64d3",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "yqjv0001_1",
+      "question_id": 52481,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "yqjv0001",
+      "boxes": [
+        [
+          998,
+          2074,
+          1095,
+          2152
+        ]
+      ],
+      "masked_pixels": 7566,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.001991817908986084,
+      "source_sha256": "50ad114013fa083f51e6850e59254e5d852b3760dd88753166a7fe9b442fa233",
+      "question_types": [
+        "Image/Photo"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "ssmy0046_1",
+      "question_id": 54193,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "ssmy0046",
+      "boxes": [
+        [
+          396,
+          568,
+          1270,
+          724
+        ]
+      ],
+      "masked_pixels": 136344,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.035893790772244076,
+      "source_sha256": "0ca234dc846bb830ce741d01a84655bb4d20feb321350c5b9847ecb20dc42def",
+      "question_types": [
+        "free_text",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "lnmm0081_6",
+      "question_id": 56073,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "lnmm0081",
+      "boxes": [
+        [
+          1198,
+          1731,
+          1351,
+          1787
+        ]
+      ],
+      "masked_pixels": 8568,
+      "page_pixels": 3729000,
+      "masked_area_fraction": 0.0022976669348350764,
+      "source_sha256": "e2122d7f4958a5709f9aadc04b03a9c000924ae134be519c1af231381b0054db",
+      "question_types": [
+        "free_text"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "yjjl0226_1",
+      "question_id": 45127,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "yjjl0226",
+      "boxes": [
+        [
+          72,
+          116,
+          433,
+          134
+        ],
+        [
+          153,
+          116,
+          433,
+          134
+        ]
+      ],
+      "masked_pixels": 6498,
+      "page_pixels": 464712,
+      "masked_area_fraction": 0.013982853896606931,
+      "source_sha256": "a4272ff863b2d0a87fff09a747c3a1c06a1ce5e2ecd288b0f519d96a52901bc9",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "hfmf0227_1",
+      "question_id": 61789,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "hfmf0227",
+      "boxes": [
+        [
+          176,
+          2095,
+          222,
+          2118
+        ]
+      ],
+      "masked_pixels": 1058,
+      "page_pixels": 4138030,
+      "masked_area_fraction": 0.0002556772183865269,
+      "source_sha256": "024949c2cf5c1fde16120340a23540be78f20408ebf43e4837152dce72cb0683",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "ljnl0226_1",
+      "question_id": 45457,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "ljnl0226",
+      "boxes": [
+        [
+          127,
+          144,
+          177,
+          159
+        ]
+      ],
+      "masked_pixels": 750,
+      "page_pixels": 421080,
+      "masked_area_fraction": 0.001781134226275292,
+      "source_sha256": "98577ec5cd0b9345fb4f0227c457368a3b93c64ae998c429fab43f06c1b64d6f",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "xlpf0227_1",
+      "question_id": 40585,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "xlpf0227",
+      "boxes": [
+        [
+          322,
+          488,
+          676,
+          526
+        ],
+        [
+          408,
+          797,
+          457,
+          827
+        ]
+      ],
+      "masked_pixels": 14922,
+      "page_pixels": 4114432,
+      "masked_area_fraction": 0.003626746049029368,
+      "source_sha256": "350d9ed091b442c3bf9e63f73cd259a2cc96fad9f607a7470d3726c9c655b128",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "kjkg0227_1",
+      "question_id": 63486,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "kjkg0227",
+      "boxes": [
+        [
+          385,
+          285,
+          1245,
+          363
+        ]
+      ],
+      "masked_pixels": 67080,
+      "page_pixels": 3740850,
+      "masked_area_fraction": 0.017931753478487508,
+      "source_sha256": "72c3100d7f7b14e99986f579ff5c5dfeab1ffb81154db7f8b30d96136c0228cc",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "qhxl0226_1",
+      "question_id": 45252,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "qhxl0226",
+      "boxes": [
+        [
+          500,
+          325,
+          617,
+          344
+        ],
+        [
+          500,
+          325,
+          749,
+          344
+        ]
+      ],
+      "masked_pixels": 4731,
+      "page_pixels": 493272,
+      "masked_area_fraction": 0.009591057266579089,
+      "source_sha256": "4520489890ffef40a43353827ca329c54ce92147c625c5a7d74b8a39e4f6471c",
+      "question_types": [
+        "free_text"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "qlcf0227_1",
+      "question_id": 64227,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "qlcf0227",
+      "boxes": [
+        [
+          514,
+          588,
+          1262,
+          618
+        ]
+      ],
+      "masked_pixels": 22440,
+      "page_pixels": 4079224,
+      "masked_area_fraction": 0.005501046277429237,
+      "source_sha256": "a5248ae161b744e5e51885dcd08082b68b1f8dcae29f88f764126e04fe824cc3",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "fpjn0020_1",
+      "question_id": 53463,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "fpjn0020",
+      "boxes": [
+        [
+          1192,
+          132,
+          1269,
+          161
+        ],
+        [
+          1192,
+          132,
+          1508,
+          164
+        ]
+      ],
+      "masked_pixels": 10112,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.0026620754289806083,
+      "source_sha256": "28689e9192aabb574dd5aa5bc3b22e88eb86e9829536288e04ea89170314f063",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "gnnp0227_6",
+      "question_id": 56449,
+      "role": "FREE_NARRATIVE",
+      "eligible": true,
+      "source_document_id": "gnnp0227",
+      "boxes": [
+        [
+          1005,
+          1258,
+          1105,
+          1314
+        ]
+      ],
+      "masked_pixels": 5600,
+      "page_pixels": 4257824,
+      "masked_area_fraction": 0.001315225805481861,
+      "source_sha256": "a00b3c420e2cb9284e0a4f9cb8a12f2b4baa4183c1120b79aaa8363924128f0a",
+      "question_types": [
+        "handwritten",
+        "form",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "yrpf0227_3",
+      "question_id": 64633,
+      "role": "NEGATIVE_CONTROL",
+      "eligible": true,
+      "source_document_id": "yrpf0227",
+      "boxes": [
+        [
+          1317,
+          709,
+          1614,
+          741
+        ],
+        [
+          1396,
+          710,
+          1614,
+          741
+        ]
+      ],
+      "masked_pixels": 9504,
+      "page_pixels": 4144390,
+      "masked_area_fraction": 0.002293220473941883,
+      "source_sha256": "ca69d9c2fa9ec12499bdd1c566b29d1cd6b2d2ac5b5eed8bcc6cf3e75ade0694",
+      "question_types": [
+        "Image/Photo"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "gtyg0227_1",
+      "question_id": 61611,
+      "role": "NEGATIVE_CONTROL",
+      "eligible": true,
+      "source_document_id": "gtyg0227",
+      "boxes": [
+        [
+          467,
+          780,
+          531,
+          808
+        ]
+      ],
+      "masked_pixels": 1792,
+      "page_pixels": 4085865,
+      "masked_area_fraction": 0.00043858522002073,
+      "source_sha256": "d341ba13b2e7f4be4a8c2f59f48ac9664318ed95eddf654979c8913628398f7f",
+      "question_types": [
+        "table/list"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "hgwd0227_34",
+      "question_id": 63531,
+      "role": "NEGATIVE_CONTROL",
+      "eligible": true,
+      "source_document_id": "hgwd0227",
+      "boxes": [
+        [
+          152,
+          633,
+          589,
+          663
+        ]
+      ],
+      "masked_pixels": 13110,
+      "page_pixels": 3705977,
+      "masked_area_fraction": 0.003537528700259068,
+      "source_sha256": "afb2a958c7ecd87ca0dcec56657276d5e7de195636bf04055a69a73975bd4863",
+      "question_types": [
+        "table/list"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "ljxj0037_1",
+      "question_id": 234,
+      "role": "NEGATIVE_CONTROL",
+      "eligible": true,
+      "source_document_id": "ljxj0037",
+      "boxes": [
+        [
+          462,
+          175,
+          1240,
+          211
+        ]
+      ],
+      "masked_pixels": 28008,
+      "page_pixels": 3749788,
+      "masked_area_fraction": 0.007469222260031767,
+      "source_sha256": "7c5e216d7ea2bdd662d053b5ff3b7f1f98c26212b51799f64e587f4a9e1ba24d",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "qfkw0227_1",
+      "question_id": 63203,
+      "role": "NEGATIVE_CONTROL",
+      "eligible": true,
+      "source_document_id": "qfkw0227",
+      "boxes": [
+        [
+          420,
+          1290,
+          567,
+          1319
+        ]
+      ],
+      "masked_pixels": 4263,
+      "page_pixels": 4021136,
+      "masked_area_fraction": 0.00106014817703256,
+      "source_sha256": "9e2150793507775816cde62fad82bfd8b08f55ec1b1fb6bfe3c02c4ee45db90b",
+      "question_types": [
+        "layout",
+        "others"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "srvg0227_1",
+      "question_id": 64137,
+      "role": "NEGATIVE_CONTROL",
+      "eligible": true,
+      "source_document_id": "srvg0227",
+      "boxes": [
+        [
+          664,
+          875,
+          686,
+          907
+        ]
+      ],
+      "masked_pixels": 704,
+      "page_pixels": 5146155,
+      "masked_area_fraction": 0.00013680116514174176,
+      "source_sha256": "fe9b227fddf2b2dfe8a8ff482998a8584a388e47eed5795a170344501ea167b1",
+      "question_types": [
+        "table/list"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "hkhx0227_2",
+      "question_id": 21121,
+      "role": "NEGATIVE_CONTROL",
+      "eligible": true,
+      "source_document_id": "hkhx0227",
+      "boxes": [
+        [
+          1196,
+          412,
+          1405,
+          443
+        ]
+      ],
+      "masked_pixels": 6479,
+      "page_pixels": 3990672,
+      "masked_area_fraction": 0.0016235360861529087,
+      "source_sha256": "f593d9e31573b4e8e93d96d3f1db94695a480ed301a8348016c02113b638df26",
+      "question_types": [
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "ylvj0223_21",
+      "question_id": 57374,
+      "role": "NEGATIVE_CONTROL",
+      "eligible": true,
+      "source_document_id": "ylvj0223",
+      "boxes": [
+        [
+          143,
+          173,
+          421,
+          217
+        ]
+      ],
+      "masked_pixels": 12232,
+      "page_pixels": 3928860,
+      "masked_area_fraction": 0.0031133713087256863,
+      "source_sha256": "71840b49c12f875cb20bd239be6c6c0ddee3f94786f55fb184d954c73afab856",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "yxcc0228_2",
+      "question_id": 61634,
+      "role": "NEGATIVE_CONTROL",
+      "eligible": true,
+      "source_document_id": "yxcc0228",
+      "boxes": [
+        [
+          1380,
+          332,
+          1676,
+          373
+        ]
+      ],
+      "masked_pixels": 12136,
+      "page_pixels": 3972696,
+      "masked_area_fraction": 0.0030548524226369196,
+      "source_sha256": "9e33e771bfeee33b12ae11f084f2729d677106b3211aaae61a14344a14c0f57c",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "rhxj0037_1",
+      "question_id": 50721,
+      "role": "NEGATIVE_CONTROL",
+      "eligible": true,
+      "source_document_id": "rhxj0037",
+      "boxes": [
+        [
+          461,
+          127,
+          1230,
+          162
+        ]
+      ],
+      "masked_pixels": 26915,
+      "page_pixels": 3749788,
+      "masked_area_fraction": 0.007177739114851293,
+      "source_sha256": "a852d008556f05decbecf34ec383961b6848ffe31497790664c6ef849bcd0d1e",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "jmhk0228_2",
+      "question_id": 5520,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "jmhk0228",
+      "boxes": [
+        [
+          1297,
+          709,
+          1600,
+          746
+        ]
+      ],
+      "masked_pixels": 11211,
+      "page_pixels": 3999963,
+      "masked_area_fraction": 0.0028027759256773126,
+      "source_sha256": "31b35612be1d9f01a71c12c4bfb918b737cf9e4ce381d001ef932e378533d850",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "qync0227_1",
+      "question_id": 36928,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "qync0227",
+      "boxes": [
+        [
+          913,
+          84,
+          940,
+          123
+        ]
+      ],
+      "masked_pixels": 1053,
+      "page_pixels": 4302416,
+      "masked_area_fraction": 0.00024474620771213195,
+      "source_sha256": "2b925af4a284e5ed582206a6af787d5841d95c2f2eaa6778b18a7f6b9c64e66a",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "knpp0227_4",
+      "question_id": 56467,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "knpp0227",
+      "boxes": [
+        [
+          996,
+          433,
+          1215,
+          458
+        ]
+      ],
+      "masked_pixels": 5475,
+      "page_pixels": 2733120,
+      "masked_area_fraction": 0.002003205128205128,
+      "source_sha256": "5e098ed4cc3bb2049a8ffe0568e01a548dabfa8e87da9e5f41e9f03931ea7a82",
+      "question_types": [
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "qtxb0228_1",
+      "question_id": 59693,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "qtxb0228",
+      "boxes": [
+        [
+          1162,
+          637,
+          1251,
+          671
+        ]
+      ],
+      "masked_pixels": 3026,
+      "page_pixels": 4349862,
+      "masked_area_fraction": 0.0006956542529395186,
+      "source_sha256": "9db0d2a1551390b8412510b4aaa3c2dc545f387bb132de5a75d0a2731f92cd87",
+      "question_types": [
+        "form",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "flxn0020_1",
+      "question_id": 7571,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "flxn0020",
+      "boxes": [
+        [
+          414,
+          123,
+          937,
+          173
+        ]
+      ],
+      "masked_pixels": 26150,
+      "page_pixels": 4045572,
+      "masked_area_fraction": 0.006463857274076447,
+      "source_sha256": "8f0a3f8d88961fc1cee7b0b2abed017715c8368ce62ee79714ca0ef33fcb786d",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "kfgn0226_1",
+      "question_id": 42222,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "kfgn0226",
+      "boxes": [
+        [
+          548,
+          193,
+          1162,
+          307
+        ]
+      ],
+      "masked_pixels": 69996,
+      "page_pixels": 3865235,
+      "masked_area_fraction": 0.01810911885047093,
+      "source_sha256": "2d26158296e2a3f04fca714e3c1eea7608fcaac8e5bc9c3a8b12b9f391d20f56",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "zxjw0023_1",
+      "question_id": 8117,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "zxjw0023",
+      "boxes": [
+        [
+          364,
+          369,
+          533,
+          404
+        ]
+      ],
+      "masked_pixels": 5915,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.0015571772312520074,
+      "source_sha256": "f897865ddae7dc52bc1fe32a15f5e7a519676fd326029c42b54700f8a7558f30",
+      "question_types": [
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "fmnm0227_6",
+      "question_id": 47697,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "fmnm0227",
+      "boxes": [
+        [
+          715,
+          364,
+          1121,
+          434
+        ],
+        [
+          760,
+          364,
+          1084,
+          399
+        ]
+      ],
+      "masked_pixels": 28420,
+      "page_pixels": 4404600,
+      "masked_area_fraction": 0.006452345275393906,
+      "source_sha256": "2fd4a65c95d97a89cfdd47c77546d898ee71567177525dc314062f371fbf83c6",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "kfdw0217_1",
+      "question_id": 17141,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "kfdw0217",
+      "boxes": [
+        [
+          676,
+          361,
+          986,
+          414
+        ]
+      ],
+      "masked_pixels": 16430,
+      "page_pixels": 3747804,
+      "masked_area_fraction": 0.004383900545492774,
+      "source_sha256": "555ad1e0b90c4c4f8399a4689926c6b833cbf83fe142ab4a87298bccd63e23a2",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "lxch0228_1",
+      "question_id": 4926,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "lxch0228",
+      "boxes": [
+        [
+          1050,
+          159,
+          1393,
+          197
+        ]
+      ],
+      "masked_pixels": 13034,
+      "page_pixels": 3753912,
+      "masked_area_fraction": 0.00347211122690143,
+      "source_sha256": "85e69f5665fb5648ef26ea8757c8e5dcd506b47735731978f8b07d054b06a3d3",
+      "question_types": [
+        "form",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "fgvc0225_9",
+      "question_id": 6020,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "fgvc0225",
+      "boxes": [
+        [
+          127,
+          960,
+          505,
+          1024
+        ]
+      ],
+      "masked_pixels": 24192,
+      "page_pixels": 3779599,
+      "masked_area_fraction": 0.006400679013831891,
+      "source_sha256": "e0503dc3ea7dfe9cf17d6ee5330e88625c0373ad03ccc5388079b05257208078",
+      "question_types": [
+        "handwritten",
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "zylj0226_6",
+      "question_id": 5699,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "zylj0226",
+      "boxes": [
+        [
+          521,
+          321,
+          869,
+          381
+        ]
+      ],
+      "masked_pixels": 20880,
+      "page_pixels": 3805370,
+      "masked_area_fraction": 0.005486982868945727,
+      "source_sha256": "94f08ef6d79f23ccdc392c894a1c004892d76cb0d1b5baafa29b816265ed7162",
+      "question_types": [
+        "handwritten",
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "rlmy0225_9",
+      "question_id": 4592,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "rlmy0225",
+      "boxes": [
+        [
+          141,
+          724,
+          489,
+          771
+        ]
+      ],
+      "masked_pixels": 16356,
+      "page_pixels": 3799721,
+      "masked_area_fraction": 0.00430452656918758,
+      "source_sha256": "de2161eaec36878ac87d4d7df70ce6f67c6f92d779f98fc756910e60c906db4e",
+      "question_types": [
+        "handwritten",
+        "table/list"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "xpcf0004_1",
+      "question_id": 7396,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "xpcf0004",
+      "boxes": [
+        [
+          718,
+          198,
+          942,
+          234
+        ]
+      ],
+      "masked_pixels": 8064,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.002122920911718713,
+      "source_sha256": "fa5343324e04b1700779307c960f3f0d7b2579dd4bd981bc4ab2e0fc33843430",
+      "question_types": [
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "zxlf0065_1",
+      "question_id": 12545,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "zxlf0065",
+      "boxes": [
+        [
+          109,
+          923,
+          535,
+          952
+        ],
+        [
+          993,
+          303,
+          1192,
+          325
+        ]
+      ],
+      "masked_pixels": 16732,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.004404850284583024,
+      "source_sha256": "db71e59d26451b4102eddb837dbe1dbcdc811c4ae55cea7637b6d7a1122e320d",
+      "question_types": [
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "lrwj0224_2",
+      "question_id": 6011,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "lrwj0224",
+      "boxes": [
+        [
+          927,
+          256,
+          1117,
+          283
+        ]
+      ],
+      "masked_pixels": 5130,
+      "page_pixels": 3789654,
+      "masked_area_fraction": 0.001353685587127479,
+      "source_sha256": "c2a94953227732b89da54361c99f81111edbefd08f0d7b2ee8bd60bb8885a8dc",
+      "question_types": [
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "ltlj0226_7",
+      "question_id": 5645,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "ltlj0226",
+      "boxes": [
+        [
+          267,
+          154,
+          767,
+          183
+        ]
+      ],
+      "masked_pixels": 14500,
+      "page_pixels": 3869544,
+      "masked_area_fraction": 0.0037472115577442716,
+      "source_sha256": "1bf8ae15a068a0eb99b69efde36961a6d4cbd6f33234ece46eb16fc4829bd388",
+      "question_types": [
+        "form",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "gmhp0000_2",
+      "question_id": 6325,
+      "role": "PII_CONTEXT",
+      "eligible": false,
+      "source_document_id": "gmhp0000",
+      "exclusion_reason": "no_exact_localization_match"
+    },
+    {
+      "document_id": "nnfg0224_13",
+      "question_id": 5960,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "nnfg0224",
+      "boxes": [
+        [
+          579,
+          282,
+          1110,
+          336
+        ]
+      ],
+      "masked_pixels": 28674,
+      "page_pixels": 3819396,
+      "masked_area_fraction": 0.007507469767471087,
+      "source_sha256": "89a43a63df488bf218a0980dd68df68ad7b6be7aca09b773b1427ef323057d3d",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "lldj0224_2",
+      "question_id": 5666,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "lldj0224",
+      "boxes": [
+        [
+          618,
+          147,
+          1125,
+          204
+        ]
+      ],
+      "masked_pixels": 28899,
+      "page_pixels": 3746102,
+      "masked_area_fraction": 0.007714418881279795,
+      "source_sha256": "8272aabc3eb61bc22878f1bd3ba244468ff93e425bab919ffa168bc2390b1136",
+      "question_types": [
+        "form",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "pslm0006_1",
+      "question_id": 6945,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "pslm0006",
+      "boxes": [
+        [
+          537,
+          216,
+          1061,
+          257
+        ]
+      ],
+      "masked_pixels": 21484,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.005655857250417265,
+      "source_sha256": "c70a830b9db4983cc1a5db7c4cb238ac671cb46a16b1a64a477d9311676161da",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "khcw0004_1",
+      "question_id": 6963,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "khcw0004",
+      "boxes": [
+        [
+          1121,
+          117,
+          1541,
+          151
+        ]
+      ],
+      "masked_pixels": 14280,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.0037593391145018876,
+      "source_sha256": "7570184b81540547072404a1e2cede3228ee4679eb632a0d3b37f36d6b3b389d",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "yhxn0020_1",
+      "question_id": 53433,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "yhxn0020",
+      "boxes": [
+        [
+          55,
+          123,
+          599,
+          156
+        ]
+      ],
+      "masked_pixels": 17952,
+      "page_pixels": 3884694,
+      "masked_area_fraction": 0.004621213408314786,
+      "source_sha256": "b18785c2ad5f89f688d1b380a85c8c8a7d6eb87c97bf04c65c7c2a6cfcbfa1a9",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "zylj0226_7",
+      "question_id": 5807,
+      "role": "PII_CONTEXT",
+      "eligible": false,
+      "source_document_id": "zylj0226",
+      "exclusion_reason": "no_exact_localization_match"
+    },
+    {
+      "document_id": "gggw0004_2",
+      "question_id": 7005,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "gggw0004",
+      "boxes": [
+        [
+          589,
+          389,
+          1032,
+          437
+        ]
+      ],
+      "masked_pixels": 21264,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.005597940261258273,
+      "source_sha256": "49a704002866b01587ccdaab22e5256ca2c7e140d7833e1d4ec3dfc1fb21eca8",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "ykmg0065_1",
+      "question_id": 12577,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "ykmg0065",
+      "boxes": [
+        [
+          159,
+          177,
+          242,
+          197
+        ]
+      ],
+      "masked_pixels": 1660,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.00043701000910876284,
+      "source_sha256": "60dec07b877d6e52d24bdb9d23c5d8117b982dc816173dff7792a6170557d30a",
+      "question_types": [
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "lzkh0228_1",
+      "question_id": 5855,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "lzkh0228",
+      "boxes": [
+        [
+          812,
+          454,
+          997,
+          481
+        ]
+      ],
+      "masked_pixels": 4995,
+      "page_pixels": 3747804,
+      "masked_area_fraction": 0.0013327804762468902,
+      "source_sha256": "244a69db67777c2d94470b833ae4dcac25b928ec040478eec79de8a69e5c250c",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "srgb0228_2",
+      "question_id": 57028,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "srgb0228",
+      "boxes": [
+        [
+          1129,
+          919,
+          1376,
+          958
+        ],
+        [
+          1383,
+          917,
+          1489,
+          957
+        ]
+      ],
+      "masked_pixels": 13873,
+      "page_pixels": 4258470,
+      "masked_area_fraction": 0.003257742804340526,
+      "source_sha256": "644f05221fa6c971d32f8a251f0324caf30c34afbf73069b2250d392f964f022",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "yghg0065_1",
+      "question_id": 54989,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "yghg0065",
+      "boxes": [
+        [
+          588,
+          1190,
+          1146,
+          1237
+        ]
+      ],
+      "masked_pixels": 26226,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.0069042316258351895,
+      "source_sha256": "a861f05f56ee4838fee052dc0c306a0cab9254100381409b4d0079bfed631750",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "qkyl0006_1",
+      "question_id": 6864,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "qkyl0006",
+      "boxes": [
+        [
+          1276,
+          80,
+          1484,
+          134
+        ]
+      ],
+      "masked_pixels": 11232,
+      "page_pixels": 4004964,
+      "masked_area_fraction": 0.0028045195911873366,
+      "source_sha256": "ad81925e8bbbfd180739d49f3b3d36126fa2e6b5c4d3e638dcad3f88936ff7b4",
+      "question_types": [
+        "handwritten",
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "qzlj0226_1",
+      "question_id": 5642,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "qzlj0226",
+      "boxes": [
+        [
+          524,
+          530,
+          614,
+          559
+        ]
+      ],
+      "masked_pixels": 2610,
+      "page_pixels": 3799721,
+      "masked_area_fraction": 0.0006868925376363159,
+      "source_sha256": "517a2dc7764ecffc3aade698a567b2ef7fb13122c36b1ad27b2e1ea2dd091dc0",
+      "question_types": [
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "rpmy0000_1",
+      "question_id": 6620,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "rpmy0000",
+      "boxes": [
+        [
+          1004,
+          1261,
+          1052,
+          1343
+        ]
+      ],
+      "masked_pixels": 3936,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.0010361875878627052,
+      "source_sha256": "eceecd2664cdb93c955db630c865569893004d9cd02e96479324e0c8edb15650",
+      "question_types": [
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "zrdw0217_1",
+      "question_id": 45394,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "zrdw0217",
+      "boxes": [
+        [
+          458,
+          478,
+          1251,
+          508
+        ]
+      ],
+      "masked_pixels": 23790,
+      "page_pixels": 3736794,
+      "masked_area_fraction": 0.00636641998461783,
+      "source_sha256": "2906d8dd2cef141fc3c08a6a355913192b2eae946c68b7ec501632c04b9be648",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "klxk0225_1",
+      "question_id": 53602,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "klxk0225",
+      "boxes": [
+        [
+          715,
+          321,
+          994,
+          354
+        ]
+      ],
+      "masked_pixels": 9207,
+      "page_pixels": 3740000,
+      "masked_area_fraction": 0.002461764705882353,
+      "source_sha256": "f2dbcf22f967a04b09e6141176e7ae544ff6dee741fb323c168f0770b2890599",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "gtpf0227_1",
+      "question_id": 60815,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "gtpf0227",
+      "boxes": [
+        [
+          1236,
+          454,
+          1456,
+          488
+        ]
+      ],
+      "masked_pixels": 7480,
+      "page_pixels": 4108050,
+      "masked_area_fraction": 0.0018208152286364578,
+      "source_sha256": "e4cfdb2638c670ca1c386c3a98f1543a5335f618819ceb7fc8e927abf00be459",
+      "question_types": [
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "hnhp0000_1",
+      "question_id": 6773,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "hnhp0000",
+      "boxes": [
+        [
+          428,
+          686,
+          744,
+          721
+        ],
+        [
+          428,
+          689,
+          648,
+          721
+        ]
+      ],
+      "masked_pixels": 11060,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.0029116450004475405,
+      "source_sha256": "c80a54e458338c00f3055e57addc0db91b0b77514c65a568554b7df8ec03ae95",
+      "question_types": [
+        "form",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "gncw0217_1",
+      "question_id": 45817,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "gncw0217",
+      "boxes": [
+        [
+          820,
+          855,
+          905,
+          876
+        ]
+      ],
+      "masked_pixels": 1785,
+      "page_pixels": 3927000,
+      "masked_area_fraction": 0.00045454545454545455,
+      "source_sha256": "93b11e32a92ebde5c9c2756d40d4a8e3577daff4ed5edd6fde90b5da58b131b0",
+      "question_types": [
+        "table/list"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "rkbd0228_1",
+      "question_id": 56839,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "rkbd0228",
+      "boxes": [
+        [
+          673,
+          138,
+          1077,
+          171
+        ]
+      ],
+      "masked_pixels": 13332,
+      "page_pixels": 4177250,
+      "masked_area_fraction": 0.0031915734035549703,
+      "source_sha256": "46c255d99c5287284575dfe7a41f85419e299b1b51483e7f34af45fd1ceb2b9c",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "kqwg0078_2",
+      "question_id": 19145,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "kqwg0078",
+      "boxes": [
+        [
+          731,
+          184,
+          814,
+          217
+        ],
+        [
+          731,
+          184,
+          1058,
+          222
+        ]
+      ],
+      "masked_pixels": 12426,
+      "page_pixels": 3798540,
+      "masked_area_fraction": 0.0032712568513165586,
+      "source_sha256": "007cb2e45986a630f7f3d6a8e0255250e144a02ff5c836ad10ab432bfc06e76f",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "jrlg0227_1",
+      "question_id": 36769,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "jrlg0227",
+      "boxes": [
+        [
+          1450,
+          141,
+          1481,
+          168
+        ]
+      ],
+      "masked_pixels": 837,
+      "page_pixels": 3917378,
+      "masked_area_fraction": 0.00021366332276333814,
+      "source_sha256": "a914889cb33fc1f3fb68133ec5e25beda812b4575196d4cd132dff466a59c600",
+      "question_types": [
+        "form"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "gpyy0225_2",
+      "question_id": 4522,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "gpyy0225",
+      "boxes": [
+        [
+          921,
+          1008,
+          966,
+          1036
+        ]
+      ],
+      "masked_pixels": 1260,
+      "page_pixels": 3821614,
+      "masked_area_fraction": 0.0003297036278389183,
+      "source_sha256": "9409adf5628e4110a7013ceeccd1ee7ef786645b68d14c96146044bb077ebd1f",
+      "question_types": [
+        "free_text"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "tnjw0228_1",
+      "question_id": 55132,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "tnjw0228",
+      "boxes": [
+        [
+          505,
+          244,
+          966,
+          283
+        ],
+        [
+          505,
+          244,
+          1226,
+          283
+        ],
+        [
+          977,
+          245,
+          1226,
+          283
+        ]
+      ],
+      "masked_pixels": 28119,
+      "page_pixels": 4109556,
+      "masked_area_fraction": 0.0068423450124539004,
+      "source_sha256": "ed0dbc76405c63d636f03178e8319141c5c557538f822dc7210d1e4d67bdc88b",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "kqbb0079_5",
+      "question_id": 58495,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "kqbb0079",
+      "boxes": [
+        [
+          561,
+          66,
+          867,
+          96
+        ],
+        [
+          580,
+          101,
+          681,
+          127
+        ],
+        [
+          731,
+          104,
+          798,
+          127
+        ]
+      ],
+      "masked_pixels": 13347,
+      "page_pixels": 3729000,
+      "masked_area_fraction": 0.003579243765084473,
+      "source_sha256": "c1377769cfadc50d0c2213d129eb62ba59e2c3cbfb4bd3904268a72ae4bf3cea",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "zzcd0228_1",
+      "question_id": 56847,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "zzcd0228",
+      "boxes": [
+        [
+          1307,
+          384,
+          1402,
+          417
+        ]
+      ],
+      "masked_pixels": 3135,
+      "page_pixels": 4018280,
+      "masked_area_fraction": 0.0007801845565764457,
+      "source_sha256": "a989203ea01896b5714cc1c9167ccd99e522b27ec637f8b66cfb7ea29e00fbfd",
+      "question_types": [
+        "table/list"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "zkjn0226_2",
+      "question_id": 5561,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "zkjn0226",
+      "boxes": [
+        [
+          861,
+          364,
+          995,
+          394
+        ]
+      ],
+      "masked_pixels": 4020,
+      "page_pixels": 3746102,
+      "masked_area_fraction": 0.001073115467758219,
+      "source_sha256": "007ebf77c4d2fa00eff92bf633bdc42da6bee5c0a7817f5ef0cc4f23f9433882",
+      "question_types": [
+        "form",
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "qpbf0227_1",
+      "question_id": 63767,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "qpbf0227",
+      "boxes": [
+        [
+          171,
+          2165,
+          633,
+          2196
+        ]
+      ],
+      "masked_pixels": 14322,
+      "page_pixels": 4688516,
+      "masked_area_fraction": 0.003054697904411545,
+      "source_sha256": "b5961c240fd0b34f46a580aa7065674b61ae7e57cc46fe0d2c0e59b02fb67a84",
+      "question_types": [
+        "Image/Photo"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "nxkh0227_1",
+      "question_id": 5193,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "nxkh0227",
+      "boxes": [
+        [
+          971,
+          154,
+          1255,
+          183
+        ]
+      ],
+      "masked_pixels": 8236,
+      "page_pixels": 3761586,
+      "masked_area_fraction": 0.0021895019813451028,
+      "source_sha256": "8d657b8e31ef60a47cf3bd87eb527c168f74e667d0defb8cfe27ff03a8a032ee",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "jzbx0227_4",
+      "question_id": 22311,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "jzbx0227",
+      "boxes": [
+        [
+          462,
+          173,
+          1598,
+          212
+        ]
+      ],
+      "masked_pixels": 44304,
+      "page_pixels": 4238727,
+      "masked_area_fraction": 0.01045219472733205,
+      "source_sha256": "3c9d9cd8f60f3f7fca0d0ef8bae0f5d180c1f7e61fdc03d16f2b9c459ae03877",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    },
+    {
+      "document_id": "mzgx0227_1",
+      "question_id": 22304,
+      "role": "PII_CONTEXT",
+      "eligible": true,
+      "source_document_id": "mzgx0227",
+      "boxes": [
+        [
+          217,
+          159,
+          892,
+          197
+        ]
+      ],
+      "masked_pixels": 25650,
+      "page_pixels": 4160080,
+      "masked_area_fraction": 0.006165746812561297,
+      "source_sha256": "2b8bea8b8e0ad3dca6c4648d4126e4cc564d36aa348f2a7097824588e9d42c42",
+      "question_types": [
+        "layout"
+      ],
+      "localization_provenance": "historical automatic answer matching; not manually verified"
+    }
+  ],
+  "scope": "Oracle answer-region image ablation on augmented inputs; no policy comparison, PII-category inference, or exhaustive answer-occurrence annotation."
+}

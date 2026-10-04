@@ -1,0 +1,17 @@
+{
+  "SROIE_TaskField_Ablation.ipynb": "c62862fcb4d35f4f36fe1be43fb3ce501cc718003bd11d0705197ec3557c5eb5",
+  "source_control_comparisons.csv": "fa9348b347d6140851e0f640b24faaa13049858e77837c46ec41050a665923b2",
+  "source_checks.csv": "b516f8927c8c2186567eb6780c3abb2f8d286ad6807fb1937cd634863f58c4d9",
+  "README.md": "2ab685852ce9e7ea4da1c59972f2ca063ff0e51a9731b5250bf0046cf8d6bc96",
+  "requirements.txt": "c669ae99d1fcd1df498f28db90c498b3921f61cd0e3a15c0c4290a53d1eed1ba",
+  "source_control_run_spec.json": "aa167bed03502ef1b49c4493a44d8a3826b5c6d79941b398ea6b6d3ad6275e54",
+  "source_validation.json": "4e7049c3659b81e608d61f903c855e0ca3fdcdaf3cfa281e0ef9ce82c96bb30e",
+  "source_control_scores.csv": "a6d4426bffde4a38875c17835f515e77b232003bd7c3cb8c3fbf0b3ef1221fda",
+  "reproduce.py": "d59257d03f9ed9648c1a17b941442b2bc7d88ccba786c56e3550fe8b0f278113",
+  "field_ablation_run_spec.json": "036320488f6f91e352a5b9431289929306348d4b15ae076ba0737bf884ac95e2",
+  "SROIE_TaskField_Manifest.json": "8cd718aeb2312db3a3ae88b8cfd93c07374872d500d87caaefb7ec5a429dd75a",
+  "source_control_summary.csv": "30a11e9e68b4f81249528de74cb31b57bd6ad04590be05aa0adb637eae81b80b",
+  "field_ablation_summary.csv": "2a668c53a96538bf4a3c760bea440933e06675c25960863b75b571bbf427ec19",
+  "field_ablation_scores.csv": "55a9529db1a54a2d623dbec1e667c8dae5897e17228f98b8b16c9d04685d692c",
+  "SROIE_Comment5_Source_Control.ipynb": "130ad1326ee3aa4da24a82d5c4b5b8caacf74eaea89680ecb4f4c296062b1f30"
+}

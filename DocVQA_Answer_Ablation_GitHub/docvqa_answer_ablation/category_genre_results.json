@@ -1,0 +1,250 @@
+{
+  "overall": {
+    "n": 194,
+    "sources": 192,
+    "baseline_anls": 0.6357842906168313,
+    "masked_anls": 0.0831423074600758,
+    "delta_anls": -0.5526419831567555,
+    "ci_low": -0.6218597166826666,
+    "ci_high": -0.48213924967606187,
+    "baseline_em": 0.5154639175257731,
+    "masked_em": 0.05670103092783505
+  },
+  "answer_category": {
+    "Other task content": {
+      "n": 119,
+      "sources": 118,
+      "baseline_anls": 0.6423046223837128,
+      "masked_anls": 0.05746298519407763,
+      "delta_anls": -0.5848416371896353,
+      "ci_low": -0.6688797636339046,
+      "ci_high": -0.49476216912034454,
+      "baseline_em": 0.5882352941176471,
+      "masked_em": 0.04201680672268908
+    },
+    "Organization name": {
+      "n": 33,
+      "sources": 33,
+      "baseline_anls": 0.7101059864878388,
+      "masked_anls": 0.13703883757359694,
+      "delta_anls": -0.5730671489142419,
+      "ci_low": -0.7451434311072285,
+      "ci_high": -0.38115062726738763,
+      "baseline_em": 0.45454545454545453,
+      "masked_em": 0.06060606060606061
+    },
+    "Person name": {
+      "n": 27,
+      "sources": 27,
+      "baseline_anls": 0.6569885361552027,
+      "masked_anls": 0.17663817663817663,
+      "delta_anls": -0.4803503595170262,
+      "ci_low": -0.6584424603174601,
+      "ci_high": -0.2970117266992268,
+      "baseline_em": 0.48148148148148145,
+      "masked_em": 0.14814814814814814
+    },
+    "Mixed reference categories": {
+      "n": 3,
+      "sources": 3,
+      "baseline_anls": 0.42063492063492064,
+      "masked_anls": 0.0,
+      "delta_anls": -0.42063492063492064,
+      "ci_low": -0.6428571428571428,
+      "ci_high": 0.0,
+      "baseline_em": 0.0,
+      "masked_em": 0.0
+    },
+    "Person-linked attribute": {
+      "n": 5,
+      "sources": 5,
+      "baseline_anls": 0.2,
+      "masked_anls": 0.0,
+      "delta_anls": -0.2,
+      "ci_low": -0.6,
+      "ci_high": 0.0,
+      "baseline_em": 0.2,
+      "masked_em": 0.0
+    },
+    "Organization contact": {
+      "n": 4,
+      "sources": 4,
+      "baseline_anls": 0.4375,
+      "masked_anls": 0.0,
+      "delta_anls": -0.4375,
+      "ci_low": -0.875,
+      "ci_high": 0.0,
+      "baseline_em": 0.25,
+      "masked_em": 0.0
+    },
+    "Person-linked contact": {
+      "n": 2,
+      "sources": 2,
+      "baseline_anls": 0.43333333333333335,
+      "masked_anls": 0.0,
+      "delta_anls": -0.43333333333333335,
+      "ci_low": -0.8666666666666667,
+      "ci_high": 0.0,
+      "baseline_em": 0.0,
+      "masked_em": 0.0
+    },
+    "Person-linked identifier": {
+      "n": 1,
+      "sources": 1,
+      "baseline_anls": 0.8571428571428572,
+      "masked_anls": 0.0,
+      "delta_anls": -0.8571428571428572,
+      "ci_low": -0.8571428571428572,
+      "ci_high": -0.8571428571428572,
+      "baseline_em": 0.0,
+      "masked_em": 0.0
+    }
+  },
+  "genre": {
+    "Correspondence and fax": {
+      "n": 33,
+      "sources": 33,
+      "baseline_anls": 0.7863636363636364,
+      "masked_anls": 0.05361305361305361,
+      "delta_anls": -0.7327505827505827,
+      "ci_low": -0.8772727272727272,
+      "ci_high": -0.5812354312354312,
+      "baseline_em": 0.7575757575757576,
+      "masked_em": 0.030303030303030304
+    },
+    "Forms and administrative records": {
+      "n": 57,
+      "sources": 57,
+      "baseline_anls": 0.6507149259908175,
+      "masked_anls": 0.10675172780435939,
+      "delta_anls": -0.543963198186458,
+      "ci_low": -0.6628046615005443,
+      "ci_high": -0.42030401433361964,
+      "baseline_em": 0.42105263157894735,
+      "masked_em": 0.07017543859649122
+    },
+    "Meeting and schedule materials": {
+      "n": 22,
+      "sources": 22,
+      "baseline_anls": 0.8011363636363636,
+      "masked_anls": 0.045454545454545456,
+      "delta_anls": -0.7556818181818182,
+      "ci_low": -0.9090909090909091,
+      "ci_high": -0.5738636363636364,
+      "baseline_em": 0.7727272727272727,
+      "masked_em": 0.045454545454545456
+    },
+    "Reports, research and reference pages": {
+      "n": 52,
+      "sources": 51,
+      "baseline_anls": 0.5813742523461193,
+      "masked_anls": 0.08338720103425985,
+      "delta_anls": -0.4979870513118595,
+      "ci_low": -0.6269248696742302,
+      "ci_high": -0.3637402545300846,
+      "baseline_em": 0.4807692307692308,
+      "masked_em": 0.057692307692307696
+    },
+    "CV and biographical pages": {
+      "n": 7,
+      "sources": 7,
+      "baseline_anls": 0.501360544217687,
+      "masked_anls": 0.0,
+      "delta_anls": -0.501360544217687,
+      "ci_low": -0.819047619047619,
+      "ci_high": -0.14285714285714285,
+      "baseline_em": 0.2857142857142857,
+      "masked_em": 0.0
+    },
+    "Uncertain genre": {
+      "n": 1,
+      "sources": 1,
+      "baseline_anls": 1.0,
+      "masked_anls": 0.0,
+      "delta_anls": -1.0,
+      "ci_low": -1.0,
+      "ci_high": -1.0,
+      "baseline_em": 1.0,
+      "masked_em": 0.0
+    },
+    "Public information and promotional pages": {
+      "n": 22,
+      "sources": 21,
+      "baseline_anls": 0.3607007575757576,
+      "masked_anls": 0.13360881542699724,
+      "delta_anls": -0.22709194214876033,
+      "ci_low": -0.45151515151515154,
+      "ci_high": -0.002552700922266135,
+      "baseline_em": 0.2727272727272727,
+      "masked_em": 0.09090909090909091
+    }
+  },
+  "genre_high_confidence": {
+    "Correspondence and fax": {
+      "n": 32,
+      "sources": 32,
+      "baseline_anls": 0.8109375,
+      "masked_anls": 0.055288461538461536,
+      "delta_anls": -0.7556490384615384,
+      "ci_low": -0.9016015625,
+      "ci_high": -0.6009615384615384,
+      "baseline_em": 0.78125,
+      "masked_em": 0.03125
+    },
+    "Forms and administrative records": {
+      "n": 56,
+      "sources": 56,
+      "baseline_anls": 0.6474538830025581,
+      "masked_anls": 0.09675324675324674,
+      "delta_anls": -0.5507006362493113,
+      "ci_low": -0.6740773123765635,
+      "ci_high": -0.4247969770964444,
+      "baseline_em": 0.42857142857142855,
+      "masked_em": 0.07142857142857142
+    },
+    "Reports, research and reference pages": {
+      "n": 47,
+      "sources": 46,
+      "baseline_anls": 0.5855823449554745,
+      "masked_anls": 0.09225817986769175,
+      "delta_anls": -0.4933241650877827,
+      "ci_low": -0.6309852498311578,
+      "ci_high": -0.35046305856936355,
+      "baseline_em": 0.5106382978723404,
+      "masked_em": 0.06382978723404255
+    },
+    "Public information and promotional pages": {
+      "n": 22,
+      "sources": 21,
+      "baseline_anls": 0.3607007575757576,
+      "masked_anls": 0.13360881542699724,
+      "delta_anls": -0.22709194214876033,
+      "ci_low": -0.45151515151515154,
+      "ci_high": -0.002552700922266135,
+      "baseline_em": 0.2727272727272727,
+      "masked_em": 0.09090909090909091
+    },
+    "Meeting and schedule materials": {
+      "n": 22,
+      "sources": 22,
+      "baseline_anls": 0.8011363636363636,
+      "masked_anls": 0.045454545454545456,
+      "delta_anls": -0.7556818181818182,
+      "ci_low": -0.9090909090909091,
+      "ci_high": -0.5738636363636364,
+      "baseline_em": 0.7727272727272727,
+      "masked_em": 0.045454545454545456
+    },
+    "CV and biographical pages": {
+      "n": 7,
+      "sources": 7,
+      "baseline_anls": 0.501360544217687,
+      "masked_anls": 0.0,
+      "delta_anls": -0.501360544217687,
+      "ci_low": -0.819047619047619,
+      "ci_high": -0.14285714285714285,
+      "baseline_em": 0.2857142857142857,
+      "masked_em": 0.0
+    }
+  }
+}

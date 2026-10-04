@@ -1,0 +1,23 @@
+{
+  "model": "philschmid/donut-base-sroie",
+  "revision": "51e72e5d160efa472ee3958d79a766faa42f6c5d",
+  "documents": 350,
+  "conditions": [
+    "SOURCE_UNAUGMENTED",
+    "AUGMENTED_UNMASKED",
+    "MASKED_SHARED"
+  ],
+  "archive_sha256": {
+    "SROIE-original-test.zip": "3f36ee9e8d2f96bba78bcebdf7feec3f8140ef540831f42f93003ac2ac351d2a",
+    "SROIE-PII-full971-images-test.zip": "81697d45ce4cb3ccf96d272f7a0a9ce79f24b0db1dec0c76b048294a22d71f34",
+    "SROIE_Current_C2_Rendered350.zip": "16532619e3efbc60db2015d9cdaf24c966bd61ab619dac49398b332835ef2bdd",
+    "SROIE-PII-full971-metadata.zip": "6632d96446d6abafc0db9787539c49fce9e22ecaa5ebfdfab7f7e94c0c0e9d89"
+  },
+  "versions": {
+    "torch": "2.11.0+cu130",
+    "transformers": "4.57.6",
+    "numpy": "2.1.3",
+    "pandas": "2.2.3",
+    "pillow": "11.3.0"
+  }
+}

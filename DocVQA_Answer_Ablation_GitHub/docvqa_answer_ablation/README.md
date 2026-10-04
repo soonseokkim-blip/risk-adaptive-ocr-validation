@@ -1,0 +1,11 @@
+# DocVQA answer ablation — Sections 4.10–4.11, Tables 14–16
+
+This package includes text-free paired scores for 194 eligible pages (192 source documents), answer-region coordinates and exclusions for the 199 input pages, the archived run specification and summary, and exploratory answer-category/document-genre labels. There were 388 inference records. Category/genre labels were AI-assisted post hoc assignments, not independently human-validated; they describe selected answers and page genres rather than exhaustive PII annotations.
+
+## Recalculate results
+Install numpy and run `python reproduce.py` to regenerate overall source-cluster and category/genre bootstrap results in `regenerated/category_genre_results.json`. The script also writes question-type point estimates and source-cluster intervals to `regenerated/answer_ablation_results.json` for Table 14. Category/genre results correspond to Tables 15–16. Bootstrap uses 10,000 source-document cluster resamples, seed 20261003. The archived `answer_ablation_summary.csv` contains the other question-type/role aggregates. The score rows omit questions, reference answers and prediction text, so independent string-level rescoring is not possible from this package alone.
+
+## Rerun inference / prepare answer masking
+The original Colab notebook is included. It requires the separately obtained DocVQA-PII-val199 execution-data archive; images and source/answer text are NOT bundled. Adjust Drive paths and obtain the original input bundle separately. The archived run specification pins the model revision and software environment; the notebook's fresh-run revision resolution should be checked against this archived specification before reproducing the historical run. The notebook's original analysis is page-bootstrap based; the provided reproduction script supplies the source-cluster analysis used in the manuscript.
+
+Coordinates were automatically matched, not manually verified, and repeated answer occurrences were not exhaustively annotated. The experiment masks answer regions on augmented pages and does not directly compare Strong with Risk-adaptive. There is no equal-area irrelevant-region control. Zero-width or tiny-stratum bootstrap intervals do not establish population-level protection. No new inference was run during packaging.

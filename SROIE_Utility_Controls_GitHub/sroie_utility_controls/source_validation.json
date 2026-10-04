@@ -1,0 +1,2110 @@
+{
+  "parquet_rows": 361,
+  "matched_documents": 350,
+  "excluded_extra_documents": 11,
+  "source_hash_matches": 350,
+  "ground_truth_matches": 350,
+  "dimension_matches": 350,
+  "checks": [
+    {
+      "document_id": "X00016469670",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X00016469671",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005200931",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005230605",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005230616",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005230621",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005230648",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005230657",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005230659",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005268275",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005268408",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005288570",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005337867",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005337877",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005361906",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005361908",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005361912",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005361923",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005365187",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005433518",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005433543",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005433548",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005433556",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005442322",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005442334",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005442343",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005442366",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005442375",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005442382",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005442388",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005444040",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005444041",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005444044",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005444046",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005447841",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005447842",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005447844",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005447851",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005447859",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005568855",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005568866",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005568885",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005568887",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005568889",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005568890",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005568892",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005568894",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005568895",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005577191",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005582745",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005587261",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005605287",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005605295",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005605332",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005621482",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005663274",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005663300",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005663307",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005663309",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005663310",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005663323",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005675099",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005675103",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005675104",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005675914",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005676534",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005676535",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005676537",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005676542",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005676548",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005677327",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005677333",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005677336",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005677337",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X510056849111",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005705727",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005705729",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005705759",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005705784",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005710963",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005711402",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005711443",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005711444",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005711446",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005711449",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005715006",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005715007",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005715455",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005719823",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005719855",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005719857",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005719863",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005719888",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005719889",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005719895",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005719898",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005719903",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005719905",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005724552",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005724609",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005724611",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005724622",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005724623",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005724624",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005724625",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005724626",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005724628",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005741929",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005742110",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005745213",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005745244",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005745298",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005746203",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005746204",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005746206",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005746207",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005746210",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005749904",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005757220",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005757233",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005757282",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005757292",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005757308",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005757342",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005763958",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005763964",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005763999",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005764031",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005764154",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005764161",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005806692",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005806695",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005806696",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005806718",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005806719",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51005806720",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006008081",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006008082",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006008083",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006008090",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006008092",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006008093",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006008105",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006008166",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006008206",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006248253",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006311714",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006327953",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006327960",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006328345",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006329183",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006332641",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006334139",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006334742",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006334766",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006334770",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006334819",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006334927",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006335818",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006349081",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006349083",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006349085",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006350737",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006387660",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006387737",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006387931",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006387950",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006387973",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006388068",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006388081",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006388089",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006389894",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006389898",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006392167",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006401845",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006401940",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006401977",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006414425",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006414427",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006414433",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006414512",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006414532",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006414592",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006414593",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006414600",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006414632",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006414702",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006414708",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006414715",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006414717",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006414728",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006438346",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006466070",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006502534",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006502535",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006502540",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006554841",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006555819",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006555833",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006555835",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556603",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556610",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556648",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556654",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556657",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556658",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556723",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556728",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556734",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556740",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556806",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556808",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556809",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556810",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556812",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556821",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556826",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556827",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556829",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556851",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006556865",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006557115",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006557169",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006557173",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006557187",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006557194",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006557196",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006557208",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006557209",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006557507",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619328",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619338",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619345",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619346",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619503",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619506",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619507",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619509",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619564",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619567",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619569",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619570",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619700",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619703",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619704",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619757",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619760",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619764",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619766",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619779",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619782",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619784",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619790",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619842",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619863",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006619869",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006620175",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006620182",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006620192",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006620437",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006647933",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006647984",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006714066",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006733495",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006828199",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006828200",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006828201",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006856982",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006857126",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006857132",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006857137",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006857540",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006912959",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006912976",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006912998",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006913018",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006913032",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006913060",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006913061",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51006913067",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007103597",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007103610",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007103649",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007103668",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007103687",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007225406",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007231274",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007231275",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007231276",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007231331",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007231341",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007231343",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007231346",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007231364",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007231372",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007339105",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007339109",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007339116",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007339119",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007339121",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007339122",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007339125",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007339127",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007339134",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007339159",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007339160",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007339161",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007339163",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007339638",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007391390",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007433809",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007579714",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007579719",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007579725",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846266",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846268",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846282",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846283",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846288",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846289",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846290",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846303",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846304",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846310",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846321",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846355",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846358",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846360",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846361",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846371",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846372",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846379",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846387",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846392",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846396",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846397",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846400",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51007846403",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51008030561",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51008030563",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51008042779",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51008042780",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51008042781",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51008042786",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51008042787",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51008099047",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51008099086",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51008099088",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51008099090",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    },
+    {
+      "document_id": "X51008099100",
+      "source_hash_match": true,
+      "ground_truth_match": true,
+      "dimension_match": true
+    }
+  ]
+}

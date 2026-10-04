@@ -1,0 +1,12 @@
+{
+  "DocVQA_TaskAnswer_Ablation.ipynb": "cca9b56c371c59a2c405a27748ace69dd5a3aac626cc2183f1212ceb1fa12a85",
+  "answer_ablation_summary.csv": "69341280a9db61059e4d4468e864b2fb5e4fdbbf7c4b1a22b1a599e0b18d9b9c",
+  "paired_scores.csv": "844be89efd42f34f88df759abaccb8d01a69fd8071d49e5bbb83e68e28372635",
+  "annotation_audit.json": "82bb4756648525b59b4fe7aea7f660d67658536672e453418fe6d1b10c066e9a",
+  "run_spec.json": "892c0a02453540b008836d215612ae42c3ccd9b44554ca29f2fb18c25a734c4c",
+  "README.md": "6f3624bf0e0b4b024cbce306090a95bc0d0fc69893fd9d38f75fbf99ffdb1492",
+  "requirements.txt": "922bda33668b532b1f38c3212a5f3cf7f0618296eaa35ef1388793e0c3cd5845",
+  "classifications.json": "b463d7e8c70441d6b70174fc56e053ed72607684ce8df90f2f0e826b319283c7",
+  "category_genre_results.json": "67e6cfe299c726ca8d72be5ab87bdb1a284bb2472dec1293597c73df83a3aed2",
+  "reproduce.py": "6ffb67a948b227dbfcadd6f84485b418910c4bad2cdf36977617117dd0b4b30d"
+}
