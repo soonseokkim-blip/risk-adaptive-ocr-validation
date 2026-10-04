@@ -10,6 +10,6 @@ Geometry: continuous/half-open rectangles (width=x2-x1; height=y2-y1), union int
 
 Priority groups use historical P3_HIGH/P4_CRITICAL annotations, not G1-G3. Historical PARTIAL_MASK actions on name/phone explain geometric deficits; this is not validation of the general mandatory-full-masking G1 rule.
 
-Audit: Manuscript correspondence: This reanalysis provides the revised SROIE spatial results in Table 6 and the entity-type and experimental protection-priority results in Tables 17 and 18. Strong coverage is 1.0000 and Risk-adaptive coverage is 0.9591, with a difference of −0.0409 (95% CI: [−0.0620, −0.0180]) and a relative masked-page-area reduction of 4.46%. The analysis uses archived coordinates and does not independently validate rendered pixels or re-identification protection.
+Manuscript correspondence: This reanalysis provides the revised SROIE spatial results in Table 6 and the entity-type and experimental protection-priority results in Tables 17 and 18. Strong coverage is 1.0000 and Risk-adaptive coverage is 0.9591, with a difference of −0.0409 (95% CI: [−0.0620, −0.0180]) and a relative masked-page-area reduction of 4.46%. The analysis uses archived coordinates and does not independently validate rendered pixels or re-identification protection.
 
 Reproduce: install numpy and execute python reproduce.py. Source image bytes and full text metadata are not included.
