@@ -34,3 +34,6 @@ Author-written evaluation scripts, derivative coordinate records, selection IDs,
 
 ## SROIE coverage reanalysis
 The sroie35_category_reanalysis directory contains coordinate annotations, entity-level scores, aggregate results, and reproduction code for the revised SROIE row in Table 6 and Tables 17–18. This analysis uses the original 35-document external-validation sample and is distinct from the archived OCR pilot and the supplementary conservative 350-document experiment.
+
+## Supplementary utility analyses
+The sroie_utility_controls directory provides materials for the unaugmented source-document control and task-field ablation in Sections 4.8–4.9 (Tables 12–13). The docvqa_answer_ablation directory provides materials for the answer-region ablation and exploratory category/genre analyses in Sections 4.10–4.11 (Tables 14–16). Both include archived numerical scores and aggregation code. Original images and answer/prediction strings are not redistributed; rerunning model inference requires separately obtained input data.
